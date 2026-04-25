@@ -302,6 +302,36 @@ TOPIC = matching topic slug
 ARTICLES_JSON = /articles.json
 ```
 
+### Property Law Topic Templates
+
+The custom designed Property Law topic HTML templates have been published into:
+
+```text
+property-law/[topic-slug]/index.html
+```
+
+These 9 topic pages are live-template pages and auto-populate from `articles.json`:
+
+```text
+property-law/builder-disputes/
+property-law/inheritance-of-property/
+property-law/land-disputes/
+property-law/landlord-problems/
+property-law/poa-deeds/
+property-law/property-due-diligence/
+property-law/property-misc/
+property-law/society-redevelopment/
+property-law/tenant-problems/
+```
+
+Each template sets:
+
+```text
+SUBJECT = property-law
+TOPIC = matching topic slug
+ARTICLES_JSON = /articles.json
+```
+
 ## Publishing A New Article
 
 When publishing a new article, place files like this:
