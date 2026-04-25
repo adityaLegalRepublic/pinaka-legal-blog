@@ -361,6 +361,32 @@ TOPIC = matching topic slug
 ARTICLES_JSON = /articles.json
 ```
 
+### Workplace & Employment Topic Templates
+
+The custom designed Workplace & Employment topic HTML templates have been published into:
+
+```text
+workplace-employment/[topic-slug]/index.html
+```
+
+These 5 topic pages are live-template pages and auto-populate from `articles.json`:
+
+```text
+workplace-employment/employer-side/
+workplace-employment/employment-contracts/
+workplace-employment/salary-wages/
+workplace-employment/termination/
+workplace-employment/workplace-harassment/
+```
+
+Each template sets:
+
+```text
+SUBJECT = workplace-employment
+TOPIC = matching topic slug
+ARTICLES_JSON = /articles.json
+```
+
 ## Publishing A New Article
 
 When publishing a new article, place files like this:
