@@ -412,6 +412,34 @@ TOPIC = matching topic slug
 ARTICLES_JSON = /articles.json
 ```
 
+### Tax & Finance Topic Templates
+
+The custom designed Tax & Finance topic HTML templates have been published into:
+
+```text
+tax-finance/[topic-slug]/index.html
+```
+
+These 7 topic pages are live-template pages and auto-populate from `articles.json`:
+
+```text
+tax-finance/capital-gains/
+tax-finance/ed-pmla/
+tax-finance/gst/
+tax-finance/it-notices/
+tax-finance/loan-recovery/
+tax-finance/tax-planning/
+tax-finance/tds-salary/
+```
+
+Each template sets:
+
+```text
+SUBJECT = tax-finance
+TOPIC = matching topic slug
+ARTICLES_JSON = /articles.json
+```
+
 ## Publishing A New Article
 
 When publishing a new article, place files like this:
