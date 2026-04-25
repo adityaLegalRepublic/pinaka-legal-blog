@@ -440,6 +440,34 @@ TOPIC = matching topic slug
 ARTICLES_JSON = /articles.json
 ```
 
+### Intellectual Property Topic Templates
+
+The custom designed Intellectual Property topic HTML templates have been published into:
+
+```text
+intellectual-property/[topic-slug]/index.html
+```
+
+These 7 topic pages are live-template pages and auto-populate from `articles.json`:
+
+```text
+intellectual-property/2026-ipr/
+intellectual-property/copyright/
+intellectual-property/design-gi/
+intellectual-property/licensing/
+intellectual-property/patent/
+intellectual-property/trade-secret/
+intellectual-property/trademark/
+```
+
+Each template sets:
+
+```text
+SUBJECT = intellectual-property
+TOPIC = matching topic slug
+ARTICLES_JSON = /articles.json
+```
+
 ## Publishing A New Article
 
 When publishing a new article, place files like this:
