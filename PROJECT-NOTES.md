@@ -1,0 +1,337 @@
+# Pinaka Legal Blog Project Notes
+
+This file is the master memory note for the static blog project. At the end of any future chat, ask: "Update PROJECT-NOTES.md before we close." In a new chat, ask: "Read PROJECT-NOTES.md and continue."
+
+## Project Purpose
+
+Build and maintain a static blog website for:
+
+```text
+blog.pinakalegal.com
+```
+
+The site publishes legal blog articles under fixed subject and topic URLs.
+
+## GitHub Repository
+
+```text
+https://github.com/adityaLegalRepublic/pinaka-legal-blog.git
+```
+
+Local project folder:
+
+```text
+/Users/tiwari/Documents/New project 2
+```
+
+The current main branch is pushed to GitHub.
+
+## Local Preview
+
+The local preview server normally runs at:
+
+```text
+http://localhost:4173/
+```
+
+Important preview URLs:
+
+```text
+Home:
+http://localhost:4173/
+
+Example topic page:
+http://localhost:4173/criminal-law/bail/
+
+Published article:
+http://localhost:4173/criminal-law/bail/anticipatory-bail-rejected-what-next/
+```
+
+## URL Structure
+
+Every article URL follows this fixed pattern:
+
+```text
+blog.pinakalegal.com/[subject]/[topic]/[article-slug]/
+```
+
+Example:
+
+```text
+blog.pinakalegal.com/criminal-law/bail/anticipatory-bail-rejected-what-next/
+```
+
+The local file location for that article is:
+
+```text
+criminal-law/bail/anticipatory-bail-rejected-what-next/index.html
+```
+
+## Subjects And Topics
+
+Subjects and topics are fixed. Do not rename them casually because URLs, breadcrumbs, and internal links depend on them.
+
+### Family Law
+
+- 498A & DV Defence -> `family-law/498a-dv-defence/`
+- Adoption -> `family-law/adoption/`
+- Child Custody -> `family-law/child-custody/`
+- Divorce - After -> `family-law/divorce-after/`
+- Divorce - Documents -> `family-law/divorce-documents/`
+- Divorce - Getting Started -> `family-law/divorce-getting-started/`
+- Divorce - Process -> `family-law/divorce-process/`
+- Domestic Violence -> `family-law/domestic-violence/`
+- Inheritance Rights -> `family-law/inheritance-rights/`
+- Maintenance -> `family-law/maintenance/`
+- Marriage - Registration -> `family-law/marriage-registration/`
+- Wills & Succession -> `family-law/wills-succession/`
+
+### Criminal Law
+
+- 2026 New Laws -> `criminal-law/2026-new-laws/`
+- Accused Defence -> `criminal-law/accused-defence/`
+- Arrest - Aftermath -> `criminal-law/arrest-aftermath/`
+- Arrest - Crisis -> `criminal-law/arrest-crisis/`
+- Bail -> `criminal-law/bail/`
+- Cheating & Fraud -> `criminal-law/cheating-fraud/`
+- Cheque Bounce -> `criminal-law/cheque-bounce/`
+- Criminal Misc -> `criminal-law/criminal-misc/`
+- Cyber Crime -> `criminal-law/cyber-crime/`
+- Defamation -> `criminal-law/defamation/`
+- FIR Problems -> `criminal-law/fir-problems/`
+- Money Recovery -> `criminal-law/money-recovery/`
+- Motor Accident -> `criminal-law/motor-accident/`
+- Neighbour & Local -> `criminal-law/neighbour-local/`
+- Political Harassment -> `criminal-law/political-harassment/`
+- Women Safety -> `criminal-law/women-safety/`
+
+### Property Law
+
+- Builder Disputes -> `property-law/builder-disputes/`
+- Inheritance of Property -> `property-law/inheritance-of-property/`
+- Land Disputes -> `property-law/land-disputes/`
+- Landlord Problems -> `property-law/landlord-problems/`
+- POA & Deeds -> `property-law/poa-deeds/`
+- Property Due Diligence -> `property-law/property-due-diligence/`
+- Property Misc -> `property-law/property-misc/`
+- Society & Redevelopment -> `property-law/society-redevelopment/`
+- Tenant Problems -> `property-law/tenant-problems/`
+
+### Consumer Rights
+
+- Banking -> `consumer-rights/banking/`
+- Consumer Basics -> `consumer-rights/consumer-basics/`
+- Education -> `consumer-rights/education/`
+- Insurance -> `consumer-rights/insurance/`
+- Medical -> `consumer-rights/medical/`
+- Online Shopping -> `consumer-rights/online-shopping/`
+- Telecom & Utilities -> `consumer-rights/telecom-utilities/`
+- Travel -> `consumer-rights/travel/`
+
+### Workplace & Employment
+
+- Employer Side -> `workplace-employment/employer-side/`
+- Employment Contracts -> `workplace-employment/employment-contracts/`
+- Salary & Wages -> `workplace-employment/salary-wages/`
+- Termination -> `workplace-employment/termination/`
+- Workplace Harassment -> `workplace-employment/workplace-harassment/`
+
+### Business & Contracts
+
+- Arbitration -> `business-contracts/arbitration/`
+- Breach & Enforcement -> `business-contracts/breach-enforcement/`
+- Drafting Needs -> `business-contracts/drafting-needs/`
+- Startup & Biz -> `business-contracts/startup-biz/`
+
+### Tax & Finance
+
+- Capital Gains -> `tax-finance/capital-gains/`
+- ED & PMLA -> `tax-finance/ed-pmla/`
+- GST -> `tax-finance/gst/`
+- IT Notices -> `tax-finance/it-notices/`
+- Loan Recovery -> `tax-finance/loan-recovery/`
+- TDS & Salary -> `tax-finance/tds-salary/`
+- Tax Planning -> `tax-finance/tax-planning/`
+
+### Intellectual Property
+
+- 2026 IPR -> `intellectual-property/2026-ipr/`
+- Copyright -> `intellectual-property/copyright/`
+- Design & GI -> `intellectual-property/design-gi/`
+- Licensing -> `intellectual-property/licensing/`
+- Patent -> `intellectual-property/patent/`
+- Trade Secret -> `intellectual-property/trade-secret/`
+- Trademark -> `intellectual-property/trademark/`
+
+### Cyber Law
+
+- AI & Tech -> `cyber-law/ai-tech/`
+- Crypto -> `cyber-law/crypto/`
+- Privacy -> `cyber-law/privacy/`
+- New Scams -> `cyber-law/new-scams/`
+- Online Harm -> `cyber-law/online-harm/`
+- Remote Work -> `cyber-law/remote-work/`
+
+### Documents & Formats
+
+- Affidavits -> `documents-formats/affidavits/`
+- Business Formats -> `documents-formats/business-formats/`
+- Complaints -> `documents-formats/complaints/`
+- Employment Formats -> `documents-formats/employment-formats/`
+- Family Formats -> `documents-formats/family-formats/`
+- Financial Formats -> `documents-formats/financial-formats/`
+- Legal Notices -> `documents-formats/legal-notices/`
+- Property Formats -> `documents-formats/property-formats/`
+
+## Topic Pages
+
+Topic pages are static HTML pages, but their article cards are populated from:
+
+```text
+articles.json
+```
+
+One `articles.json` file serves all topic pages.
+
+Each topic page filters articles by:
+
+```text
+subject
+topic
+```
+
+Example article JSON entry:
+
+```json
+{
+  "slug": "anticipatory-bail-rejected-what-next",
+  "subject": "criminal-law",
+  "topic": "bail",
+  "title": "Anticipatory Bail Rejected? Here Is What You Can Do Next",
+  "excerpt": "Anticipatory bail rejected? You still have options — approach the High Court, file an SLP, or apply for regular bail after arrest. Know your rights under BNSS 2023.",
+  "date": "2026-04-25",
+  "thumb": "anticipatory-bail-rejected-what-next-thumb.webp"
+}
+```
+
+Thumb image rule:
+
+If `thumb` is only a filename, the topic page expects it inside the article folder:
+
+```text
+[subject]/[topic]/[slug]/[thumb-file]
+```
+
+Example:
+
+```text
+criminal-law/bail/anticipatory-bail-rejected-what-next/anticipatory-bail-rejected-what-next-thumb.webp
+```
+
+Excerpt rule:
+
+Use the article meta description as the card excerpt unless a separate shorter excerpt is intentionally provided.
+
+## Publishing A New Article
+
+When publishing a new article, place files like this:
+
+```text
+[subject]/[topic]/[article-slug]/index.html
+[subject]/[topic]/[article-slug]/header.webp
+[subject]/[topic]/[article-slug]/[article-slug]-thumb.webp
+```
+
+Then update:
+
+```text
+articles.json
+```
+
+Check locally:
+
+```text
+http://localhost:4173/[subject]/[topic]/[article-slug]/
+http://localhost:4173/[subject]/[topic]/
+```
+
+Then commit and push to GitHub.
+
+## Published Articles
+
+### Anticipatory Bail Rejected? Here Is What You Can Do Next
+
+Subject:
+
+```text
+criminal-law
+```
+
+Topic:
+
+```text
+bail
+```
+
+Slug:
+
+```text
+anticipatory-bail-rejected-what-next
+```
+
+Local URL:
+
+```text
+http://localhost:4173/criminal-law/bail/anticipatory-bail-rejected-what-next/
+```
+
+File path:
+
+```text
+criminal-law/bail/anticipatory-bail-rejected-what-next/index.html
+```
+
+Images:
+
+```text
+criminal-law/bail/anticipatory-bail-rejected-what-next/header.webp
+criminal-law/bail/anticipatory-bail-rejected-what-next/anticipatory-bail-rejected-what-next-thumb.webp
+```
+
+Git commit:
+
+```text
+265a47d Publish anticipatory bail rejected article
+```
+
+## Cloudflare Notes
+
+Cloudflare deployment/domain setup is deferred for later. Current priority is GitHub and local prototype.
+
+Expected final domain:
+
+```text
+blog.pinakalegal.com
+```
+
+There was also a test Worker URL:
+
+```text
+https://pinaka-blog-worker.emailaditya9.workers.dev/
+```
+
+Do not depend on Cloudflare until the user asks to resume that part.
+
+## Future Chat Instructions
+
+In a new chat, start with:
+
+```text
+Read PROJECT-NOTES.md and continue.
+```
+
+At the end of a chat, ask:
+
+```text
+Update PROJECT-NOTES.md before we close.
+```
