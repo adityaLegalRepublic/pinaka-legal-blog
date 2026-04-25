@@ -306,21 +306,40 @@ Git commit:
 
 ## Cloudflare Notes
 
-Cloudflare deployment/domain setup is deferred for later. Current priority is GitHub and local prototype.
-
-Expected final domain:
+Cloudflare Pages is now live from the GitHub-connected Pages project:
 
 ```text
-blog.pinakalegal.com
+Project name: pinaka-legal-blog
+Pages URL: https://pinaka-legal-blog.pages.dev/
+Custom domain: https://blog.pinakalegal.com/
+Production branch: main
+GitHub repo: adityaLegalRepublic/pinaka-legal-blog
 ```
 
-There was also a test Worker URL:
+Wix DNS for `blog.pinakalegal.com` should point by CNAME to:
+
+```text
+pinaka-legal-blog.pages.dev
+```
+
+The old Cloudflare Pages project `pinaka` / `pinaka-cbw.pages.dev` was a Direct Upload project and served 404. Do not use it for the live blog.
+
+Live checks passed for:
+
+```text
+https://blog.pinakalegal.com/
+https://blog.pinakalegal.com/criminal-law/bail/
+https://blog.pinakalegal.com/criminal-law/bail/anticipatory-bail-rejected-what-next/
+https://blog.pinakalegal.com/articles.json
+```
+
+There was also an older test Worker URL:
 
 ```text
 https://pinaka-blog-worker.emailaditya9.workers.dev/
 ```
 
-Do not depend on Cloudflare until the user asks to resume that part.
+Do not use the Worker URL for the blog unless the deployment strategy changes later.
 
 ## Future Chat Instructions
 
