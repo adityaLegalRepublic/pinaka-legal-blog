@@ -1,23 +1,74 @@
-<!DOCTYPE html>
+import fs from "node:fs/promises";
+import path from "node:path";
+
+const root = process.cwd();
+const baseUrl = "https://blog.pinakalegal.com";
+
+const subjects = [
+  ["Family Law", ["498A & DV Defence", "Adoption", "Child Custody", "Divorce - After", "Divorce - Documents", "Divorce - Getting Started", "Divorce - Process", "Domestic Violence", "Inheritance Rights", "Maintenance", "Marriage - Registration", "Wills & Succession"]],
+  ["Criminal Law", ["2026 New Laws", "Accused Defence", "Arrest - Aftermath", "Arrest - Crisis", "Bail", "Cheating & Fraud", "Cheque Bounce", "Criminal Misc", "Cyber Crime", "Defamation", "FIR Problems", "Money Recovery", "Motor Accident", "Neighbour & Local", "Political Harassment", "Women Safety"]],
+  ["Property Law", ["Builder Disputes", "Inheritance of Property", "Land Disputes", "Landlord Problems", "POA & Deeds", "Property Due Diligence", "Property Misc", "Society & Redevelopment", "Tenant Problems"]],
+  ["Consumer Rights", ["Banking", "Consumer Basics", "Education", "Insurance", "Medical", "Online Shopping", "Telecom & Utilities", "Travel"]],
+  ["Workplace & Employment", ["Employer Side", "Employment Contracts", "Salary & Wages", "Termination", "Workplace Harassment"]],
+  ["Business & Contracts", ["Arbitration", "Breach & Enforcement", "Drafting Needs", "Startup & Biz"]],
+  ["Tax & Finance", ["Capital Gains", "ED & PMLA", "GST", "IT Notices", "Loan Recovery", "TDS & Salary", "Tax Planning"]],
+  ["Intellectual Property", ["2026 IPR", "Copyright", "Design & GI", "Licensing", "Patent", "Trade Secret", "Trademark"]],
+  ["Cyber Law", ["AI & Tech", "Crypto", "Privacy", "New Scams", "Online Harm", "Remote Work"]],
+  ["Documents & Formats", ["Affidavits", "Business Formats", "Complaints", "Employment Formats", "Family Formats", "Financial Formats", "Legal Notices", "Property Formats"]],
+];
+
+const descriptions = {
+  "498A & DV Defence": "Articles on defending 498A and domestic violence proceedings, bail, quashing, and family protection.",
+  "Bail": "Articles about bail, anticipatory bail, regular bail, arrest protection, and post-arrest remedies.",
+  "Domestic Violence": "Articles on domestic violence remedies, protection orders, maintenance, and defence strategy.",
+};
+
+function slugify(value) {
+  return value
+    .toLowerCase()
+    .replace(/&/g, " ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function escapeHtml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;");
+}
+
+function escapeJson(value) {
+  return JSON.stringify(String(value)).slice(1, -1);
+}
+
+function page(subjectName, topicName) {
+  const subjectSlug = slugify(subjectName);
+  const topicSlug = slugify(topicName);
+  const canonical = `${baseUrl}/${subjectSlug}/${topicSlug}/`;
+  const description = descriptions[topicName] || `Articles under ${topicName} in ${subjectName}.`;
+
+  return `<!DOCTYPE html>
 <html lang="en-IN">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ED &amp; PMLA Articles | Tax &amp; Finance | Pinaka Legal Blog</title>
-<meta name="description" content="Articles under ED &amp; PMLA in Tax &amp; Finance.">
-<link rel="canonical" href="https://blog.pinakalegal.com/tax-finance/ed-pmla/">
-<meta property="og:title" content="ED &amp; PMLA Articles | Tax &amp; Finance">
-<meta property="og:description" content="Articles under ED &amp; PMLA in Tax &amp; Finance.">
+<title>${escapeHtml(topicName)} Articles | ${escapeHtml(subjectName)} | Pinaka Legal Blog</title>
+<meta name="description" content="${escapeHtml(description)}">
+<link rel="canonical" href="${canonical}">
+<meta property="og:title" content="${escapeHtml(topicName)} Articles | ${escapeHtml(subjectName)}">
+<meta property="og:description" content="${escapeHtml(description)}">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://blog.pinakalegal.com/tax-finance/ed-pmla/">
+<meta property="og:url" content="${canonical}">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type":"ListItem","position":1,"name":"Home","item":"https://blog.pinakalegal.com/"},
-    {"@type":"ListItem","position":2,"name":"Tax & Finance","item":"https://blog.pinakalegal.com/tax-finance/"},
-    {"@type":"ListItem","position":3,"name":"ED & PMLA","item":"https://blog.pinakalegal.com/tax-finance/ed-pmla/"}
+    {"@type":"ListItem","position":1,"name":"Home","item":"${baseUrl}/"},
+    {"@type":"ListItem","position":2,"name":"${escapeJson(subjectName)}","item":"${baseUrl}/${subjectSlug}/"},
+    {"@type":"ListItem","position":3,"name":"${escapeJson(topicName)}","item":"${canonical}"}
   ]
 }
 </script>
@@ -37,20 +88,20 @@ h1{font-size:clamp(1.8rem,3vw,2.5rem);line-height:1.2;margin:.25rem 0 1rem;color
 footer{background:var(--dark);color:rgba(255,255,255,.68);padding:28px 20px;text-align:center;font-size:.85rem}
 </style>
 </head>
-<body data-subject="tax-finance" data-topic="ed-pmla">
+<body data-subject="${subjectSlug}" data-topic="${topicSlug}">
 <nav class="site-nav" aria-label="Main navigation">
   <a class="nav-brand" href="/">Pinaka Legal Blog</a>
   <ul class="nav-links">
     <li><a href="/">Home</a></li>
-    <li><a href="/tax-finance/">Tax &amp; Finance</a></li>
+    <li><a href="/${subjectSlug}/">${escapeHtml(subjectName)}</a></li>
     <li><a href="https://www.pinakalegal.com/contact">Contact</a></li>
   </ul>
 </nav>
 <main>
-  <p class="breadcrumbs"><a href="/">Home</a> / <a href="/tax-finance/">Tax &amp; Finance</a> / ED &amp; PMLA</p>
-  <div class="eyebrow">Tax &amp; Finance</div>
-  <h1>ED &amp; PMLA</h1>
-  <p>Articles under ED &amp; PMLA in Tax &amp; Finance.</p>
+  <p class="breadcrumbs"><a href="/">Home</a> / <a href="/${subjectSlug}/">${escapeHtml(subjectName)}</a> / ${escapeHtml(topicName)}</p>
+  <div class="eyebrow">${escapeHtml(subjectName)}</div>
+  <h1>${escapeHtml(topicName)}</h1>
+  <p>${escapeHtml(description)}</p>
 
   <div class="toolbar">
     <div class="count" id="article-count">Loading articles...</div>
@@ -88,7 +139,7 @@ footer{background:var(--dark);color:rgba(255,255,255,.68);padding:28px 20px;text
 
   function thumbUrl(article) {
     if (!article.thumb) return '';
-    if (/^https?:\/\//.test(article.thumb) || article.thumb.charAt(0) === '/') return article.thumb;
+    if (/^https?:\\/\\//.test(article.thumb) || article.thumb.charAt(0) === '/') return article.thumb;
     return articleUrl(article) + article.thumb;
   }
 
@@ -141,3 +192,15 @@ footer{background:var(--dark);color:rgba(255,255,255,.68);padding:28px 20px;text
 </script>
 </body>
 </html>
+`;
+}
+
+for (const [subjectName, topics] of subjects) {
+  const subjectSlug = slugify(subjectName);
+  for (const topicName of topics) {
+    const topicSlug = slugify(topicName);
+    const filePath = path.join(root, subjectSlug, topicSlug, "index.html");
+    await fs.mkdir(path.dirname(filePath), { recursive: true });
+    await fs.writeFile(filePath, page(subjectName, topicName), "utf8");
+  }
+}

@@ -3,38 +3,141 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Financial Formats Articles | Documents & Formats</title>
-<meta name="description" content="Browse articles under Financial Formats in Documents & Formats.">
+<title>Financial Formats Articles | Documents &amp; Formats | Pinaka Legal Blog</title>
+<meta name="description" content="Articles under Financial Formats in Documents &amp; Formats.">
 <link rel="canonical" href="https://blog.pinakalegal.com/documents-formats/financial-formats/">
-<meta property="og:title" content="Financial Formats Articles | Documents & Formats">
-<meta property="og:description" content="Browse articles under Financial Formats in Documents & Formats.">
+<meta property="og:title" content="Financial Formats Articles | Documents &amp; Formats">
+<meta property="og:description" content="Articles under Financial Formats in Documents &amp; Formats.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://blog.pinakalegal.com/documents-formats/financial-formats/">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://blog.pinakalegal.com/"},
+    {"@type":"ListItem","position":2,"name":"Documents & Formats","item":"https://blog.pinakalegal.com/documents-formats/"},
+    {"@type":"ListItem","position":3,"name":"Financial Formats","item":"https://blog.pinakalegal.com/documents-formats/financial-formats/"}
+  ]
+}
+</script>
 <style>
 :root{--accent:#c8323c;--dark:#12131c;--text:#1a1c2a;--muted:#5a5e72;--bg:#f9f9fb;--card:#fff;--border:#e4e5ec}
 *{box-sizing:border-box}body{margin:0;font-family:Segoe UI,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.65}
 a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
 .site-nav{background:var(--dark);padding:0 24px;display:flex;align-items:center;justify-content:space-between;min-height:56px}
 .nav-brand{color:#fff;font-weight:700}.nav-links{display:flex;gap:18px;list-style:none;margin:0;padding:0;flex-wrap:wrap}.nav-links a{color:rgba(255,255,255,.82);font-size:.9rem}
-main{max-width:1120px;margin:0 auto;padding:36px 20px 64px}.eyebrow{color:var(--accent);font-weight:700;text-transform:uppercase;font-size:.78rem;letter-spacing:.08em}
+main{max-width:1120px;margin:0 auto;padding:36px 20px 64px}.breadcrumbs{font-size:.9rem;color:var(--muted);margin-bottom:18px}.eyebrow{color:var(--accent);font-weight:700;text-transform:uppercase;font-size:.78rem;letter-spacing:.08em}
 h1{font-size:clamp(1.8rem,3vw,2.5rem);line-height:1.2;margin:.25rem 0 1rem;color:var(--dark)}p{color:var(--muted)}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin-top:28px}.card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:18px 20px}
-.card h2,.card h3{font-size:1.05rem;margin:0 0 8px;color:var(--dark)}.meta{font-size:.86rem;color:var(--muted)}
+.toolbar{display:flex;gap:12px;align-items:center;justify-content:space-between;margin:28px 0 18px;flex-wrap:wrap}.count{font-size:.9rem;color:var(--muted)}
+.search{min-width:min(100%,320px);border:1px solid var(--border);border-radius:8px;padding:10px 12px;font:inherit;background:#fff}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:10px}.card{background:var(--card);border:1px solid var(--border);border-radius:8px;overflow:hidden;display:flex;flex-direction:column;min-height:190px}
+.thumb{width:100%;aspect-ratio:16/9;object-fit:cover;background:#eef0f5}.card-body{padding:18px 20px;display:flex;flex-direction:column;gap:8px;flex:1}
+.card h2{font-size:1.06rem;line-height:1.35;margin:0;color:var(--dark)}.meta{font-size:.84rem;color:var(--muted)}.excerpt{font-size:.92rem;color:var(--muted);margin:0;flex:1}.empty{background:#fff;border:1px dashed var(--border);border-radius:8px;padding:24px;color:var(--muted)}
 footer{background:var(--dark);color:rgba(255,255,255,.68);padding:28px 20px;text-align:center;font-size:.85rem}
 </style>
 </head>
-<body>
+<body data-subject="documents-formats" data-topic="financial-formats">
 <nav class="site-nav" aria-label="Main navigation">
   <a class="nav-brand" href="/">Pinaka Legal Blog</a>
   <ul class="nav-links">
     <li><a href="/">Home</a></li>
-    <li><a href="https://www.pinakalegal.com/">Main Website</a></li>
+    <li><a href="/documents-formats/">Documents &amp; Formats</a></li>
     <li><a href="https://www.pinakalegal.com/contact">Contact</a></li>
   </ul>
 </nav>
 <main>
-<div class="eyebrow">Documents & Formats</div><h1>Financial Formats</h1><p>Articles in this topic will appear here.</p><section class="grid"><article class="card"><h2>Coming soon</h2><p class="meta">Add article folders inside this topic using the fixed URL pattern.</p></article></section>
+  <p class="breadcrumbs"><a href="/">Home</a> / <a href="/documents-formats/">Documents &amp; Formats</a> / Financial Formats</p>
+  <div class="eyebrow">Documents &amp; Formats</div>
+  <h1>Financial Formats</h1>
+  <p>Articles under Financial Formats in Documents &amp; Formats.</p>
+
+  <div class="toolbar">
+    <div class="count" id="article-count">Loading articles...</div>
+    <input class="search" id="article-search" type="search" placeholder="Search articles in this topic" autocomplete="off">
+  </div>
+
+  <section class="grid" id="article-grid" aria-live="polite"></section>
 </main>
 <footer>Pinaka Legal Blog. Legal information for general awareness only.</footer>
+<script>
+(function () {
+  var subject = document.body.dataset.subject;
+  var topic = document.body.dataset.topic;
+  var grid = document.getElementById('article-grid');
+  var count = document.getElementById('article-count');
+  var search = document.getElementById('article-search');
+  var articles = [];
+
+  function escapeHtml(value) {
+    return String(value || '').replace(/[&<>"']/g, function (char) {
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char];
+    });
+  }
+
+  function formatDate(value) {
+    if (!value) return '';
+    var date = new Date(value + 'T00:00:00+05:30');
+    if (Number.isNaN(date.getTime())) return value;
+    return date.toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric' });
+  }
+
+  function articleUrl(article) {
+    return '/' + article.subject + '/' + article.topic + '/' + article.slug + '/';
+  }
+
+  function thumbUrl(article) {
+    if (!article.thumb) return '';
+    if (/^https?:\/\//.test(article.thumb) || article.thumb.charAt(0) === '/') return article.thumb;
+    return articleUrl(article) + article.thumb;
+  }
+
+  function render() {
+    var q = search.value.trim().toLowerCase();
+    var filtered = articles.filter(function (article) {
+      var haystack = [article.title, article.excerpt, article.date].join(' ').toLowerCase();
+      return !q || haystack.indexOf(q) !== -1;
+    });
+
+    count.textContent = filtered.length + ' article' + (filtered.length === 1 ? '' : 's') + ' in this topic';
+
+    if (!filtered.length) {
+      grid.innerHTML = '<div class="empty">No articles are published in this topic yet.</div>';
+      return;
+    }
+
+    grid.innerHTML = filtered.map(function (article) {
+      var thumb = thumbUrl(article);
+      return '<article class="card">' +
+        (thumb ? '<img class="thumb" src="' + escapeHtml(thumb) + '" alt="" loading="lazy">' : '') +
+        '<div class="card-body">' +
+          '<p class="meta">' + escapeHtml(formatDate(article.date)) + '</p>' +
+          '<h2><a href="' + escapeHtml(articleUrl(article)) + '">' + escapeHtml(article.title) + '</a></h2>' +
+          '<p class="excerpt">' + escapeHtml(article.excerpt) + '</p>' +
+          '<p class="meta"><a href="' + escapeHtml(articleUrl(article)) + '">Read article -></a></p>' +
+        '</div>' +
+      '</article>';
+    }).join('');
+  }
+
+  fetch('/articles.json', { cache: 'no-cache' })
+    .then(function (response) {
+      if (!response.ok) throw new Error('Could not load articles.json');
+      return response.json();
+    })
+    .then(function (data) {
+      articles = data
+        .filter(function (article) { return article.subject === subject && article.topic === topic; })
+        .sort(function (a, b) { return String(b.date || '').localeCompare(String(a.date || '')); });
+      render();
+    })
+    .catch(function () {
+      count.textContent = 'Articles could not be loaded';
+      grid.innerHTML = '<div class="empty">The article list is unavailable. Please check articles.json.</div>';
+    });
+
+  search.addEventListener('input', render);
+})();
+</script>
 </body>
 </html>
