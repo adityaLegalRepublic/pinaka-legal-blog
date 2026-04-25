@@ -269,6 +269,39 @@ TOPIC = matching topic slug
 ARTICLES_JSON = /articles.json
 ```
 
+### Family Law Topic Templates
+
+The custom designed Family Law topic HTML templates have been published into:
+
+```text
+family-law/[topic-slug]/index.html
+```
+
+These 12 topic pages are live-template pages and auto-populate from `articles.json`:
+
+```text
+family-law/498a-dv-defence/
+family-law/adoption/
+family-law/child-custody/
+family-law/divorce-after/
+family-law/divorce-documents/
+family-law/divorce-getting-started/
+family-law/divorce-process/
+family-law/domestic-violence/
+family-law/inheritance-rights/
+family-law/maintenance/
+family-law/marriage-registration/
+family-law/wills-succession/
+```
+
+Each template sets:
+
+```text
+SUBJECT = family-law
+TOPIC = matching topic slug
+ARTICLES_JSON = /articles.json
+```
+
 ## Publishing A New Article
 
 When publishing a new article, place files like this:
