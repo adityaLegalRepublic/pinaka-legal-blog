@@ -232,6 +232,43 @@ Excerpt rule:
 
 Use the article meta description as the card excerpt unless a separate shorter excerpt is intentionally provided.
 
+### Criminal Law Topic Templates
+
+The custom designed Criminal Law topic HTML templates have been published into:
+
+```text
+criminal-law/[topic-slug]/index.html
+```
+
+These 16 topic pages are live-template pages and auto-populate from `articles.json`:
+
+```text
+criminal-law/2026-new-laws/
+criminal-law/accused-defence/
+criminal-law/arrest-aftermath/
+criminal-law/arrest-crisis/
+criminal-law/bail/
+criminal-law/cheating-fraud/
+criminal-law/cheque-bounce/
+criminal-law/criminal-misc/
+criminal-law/cyber-crime/
+criminal-law/defamation/
+criminal-law/fir-problems/
+criminal-law/money-recovery/
+criminal-law/motor-accident/
+criminal-law/neighbour-local/
+criminal-law/political-harassment/
+criminal-law/women-safety/
+```
+
+Each template sets:
+
+```text
+SUBJECT = criminal-law
+TOPIC = matching topic slug
+ARTICLES_JSON = /articles.json
+```
+
 ## Publishing A New Article
 
 When publishing a new article, place files like this:
