@@ -332,6 +332,35 @@ TOPIC = matching topic slug
 ARTICLES_JSON = /articles.json
 ```
 
+### Consumer Rights Topic Templates
+
+The custom designed Consumer Rights topic HTML templates have been published into:
+
+```text
+consumer-rights/[topic-slug]/index.html
+```
+
+These 8 topic pages are live-template pages and auto-populate from `articles.json`:
+
+```text
+consumer-rights/banking/
+consumer-rights/consumer-basics/
+consumer-rights/education/
+consumer-rights/insurance/
+consumer-rights/medical/
+consumer-rights/online-shopping/
+consumer-rights/telecom-utilities/
+consumer-rights/travel/
+```
+
+Each template sets:
+
+```text
+SUBJECT = consumer-rights
+TOPIC = matching topic slug
+ARTICLES_JSON = /articles.json
+```
+
 ## Publishing A New Article
 
 When publishing a new article, place files like this:
