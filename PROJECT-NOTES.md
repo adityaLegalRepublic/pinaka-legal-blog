@@ -387,6 +387,31 @@ TOPIC = matching topic slug
 ARTICLES_JSON = /articles.json
 ```
 
+### Business & Contracts Topic Templates
+
+The custom designed Business & Contracts topic HTML templates have been published into:
+
+```text
+business-contracts/[topic-slug]/index.html
+```
+
+These 4 topic pages are live-template pages and auto-populate from `articles.json`:
+
+```text
+business-contracts/arbitration/
+business-contracts/breach-enforcement/
+business-contracts/drafting-needs/
+business-contracts/startup-biz/
+```
+
+Each template sets:
+
+```text
+SUBJECT = business-contracts
+TOPIC = matching topic slug
+ARTICLES_JSON = /articles.json
+```
+
 ## Publishing A New Article
 
 When publishing a new article, place files like this:
