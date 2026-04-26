@@ -468,6 +468,62 @@ TOPIC = matching topic slug
 ARTICLES_JSON = /articles.json
 ```
 
+### Cyber Law Topic Templates
+
+The custom designed Cyber Law topic HTML templates have been published into:
+
+```text
+cyber-law/[topic-slug]/index.html
+```
+
+These 6 topic pages are live-template pages and auto-populate from `articles.json`:
+
+```text
+cyber-law/ai-tech/
+cyber-law/crypto/
+cyber-law/privacy/
+cyber-law/new-scams/
+cyber-law/online-harm/
+cyber-law/remote-work/
+```
+
+Each template sets:
+
+```text
+S = cyber-law
+T = matching topic slug
+fetches /articles.json
+```
+
+### Documents & Formats Topic Templates
+
+The custom designed Documents & Formats topic HTML templates have been published into:
+
+```text
+documents-formats/[topic-slug]/index.html
+```
+
+These 8 topic pages are live-template pages and auto-populate from `articles.json`:
+
+```text
+documents-formats/affidavits/
+documents-formats/business-formats/
+documents-formats/complaints/
+documents-formats/employment-formats/
+documents-formats/family-formats/
+documents-formats/financial-formats/
+documents-formats/legal-notices/
+documents-formats/property-formats/
+```
+
+Each template sets:
+
+```text
+S = documents-formats
+T = matching topic slug
+fetches /articles.json
+```
+
 ## Publishing A New Article
 
 When publishing a new article, place files like this:
