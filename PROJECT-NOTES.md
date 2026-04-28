@@ -54,6 +54,12 @@ Published article:
 http://localhost:4173/criminal-law/bail/anticipatory-bail-rejected-what-next/
 ```
 
+Current deployed static URL count after the latest Bail article import:
+
+```text
+98 pages
+```
+
 ## URL Structure
 
 Every article URL follows this fixed pattern:
@@ -238,6 +244,16 @@ criminal-law/bail/anticipatory-bail-rejected-what-next/anticipatory-bail-rejecte
 Excerpt rule:
 
 Use the article meta description as the card excerpt unless a separate shorter excerpt is intentionally provided.
+
+## Published Articles
+
+Current published Bail articles under `criminal-law/bail/`:
+
+- `anticipatory-bail-rejected-what-next`
+- `bail-conditions-too-harsh-modification`
+- `default-bail-60-90-days-your-right`
+- `first-time-arrested-how-to-get-bail-same-day`
+- `section-41a-notice-do-i-need-bail`
 
 ### Criminal Law Topic Templates
 
