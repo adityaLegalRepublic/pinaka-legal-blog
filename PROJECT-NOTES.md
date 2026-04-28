@@ -12,6 +12,13 @@ blog.pinakalegal.com
 
 The site publishes legal blog articles under fixed subject and topic URLs.
 
+Current public phone number used in hardcoded HTML contact links:
+
+```text
++91 8595704798
+tel:+918595704798
+```
+
 ## GitHub Repository
 
 ```text
