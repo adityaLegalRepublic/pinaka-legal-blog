@@ -33,6 +33,39 @@ Local project folder:
 
 The current main branch is pushed to GitHub.
 
+## Deployment And Access
+
+Cloudflare Pages project:
+
+```text
+pinaka-legal-blog
+```
+
+Deployment method:
+
+```text
+GitHub connected auto-deploy
+```
+
+The blog project is connected to:
+
+```text
+GitHub repo: adityaLegalRepublic/pinaka-legal-blog
+Production branch: main
+Cloudflare Pages URL: https://pinaka-legal-blog.pages.dev/
+Custom domain: https://blog.pinakalegal.com/
+```
+
+Normal publishing workflow:
+
+```text
+Edit local repo -> commit -> push main -> Cloudflare auto-deploys -> verify live URL
+```
+
+Cloudflare API access is available for Pages/DNS management, but do not store API tokens in this file. If Cloudflare access is needed in a future chat, ask the user for current authorized access or verify the existing local/session token.
+
+GitHub connector access was not visible in the last checked session; local SSH push works for this repo.
+
 ## Local Preview
 
 The local preview server normally runs at:
