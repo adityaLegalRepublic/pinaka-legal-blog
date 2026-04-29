@@ -275,7 +275,7 @@
   var clr=document.getElementById('search-clear'),hint=document.getElementById('search-hint');
   var sbi=document.getElementById('sb-search-info'),sbt=document.getElementById('sb-search-text');
   function fmtDate(d){try{return new Date(d).toLocaleDateString('en-IN',{day:'numeric',month:'long',year:'numeric'});}catch(e){return d;}}
-  function hl(t,q){if(!q||q.length<2)return t;var s=q.replace(/[.*+?^${}()|[\]\]/g,'\$&');return t.replace(new RegExp('('+s+')','gi'),'<mark>$1</mark>');}
+  function hl(t,q){if(!q||q.length<2)return t;var s=q.replace(/[.*+?^${}()|[\]\\]/g,'\$&');return t.replace(new RegExp('('+s+')','gi'),'<mark>$1</mark>');}
   function em(s){return EMAP[s]||'💡';}
   fetch('/articles.json')
     .then(function(r){return r.json();})
@@ -306,7 +306,7 @@
       var thumb='/'+a.subject+'/'+a.topic+'/'+a.slug+'/'+(a.thumb||a.slug+'-thumb.webp');
       var c=document.createElement('a');
       c.className='article-card';c.href=url;c.target='_blank';c.rel='noopener noreferrer';c.style.animationDelay=(i*0.04)+'s';
-      c.innerHTML='<div class="card-thumb-wrap"><img class="card-thumb" src="'+thumb+'" alt="'+(a.title||'').replace(/"/g,'')+'" loading="lazy" decoding="async" onerror="this.style.display='none'"><div class="card-thumb-fallback">'+em(a.topic)+'</div></div><div class="card-body"><div class="card-meta"><span class="card-pill">Copyright</span><span class="card-date">'+fmtDate(a.date)+'</span></div><div class="card-title">'+hl(a.title||'',q)+'</div><div class="card-excerpt">'+hl(a.excerpt||'',q)+'</div><div class="card-cta">Read Article <span class="cta-arrow">→</span></div></div>';
+      c.innerHTML='<div class="card-thumb-wrap"><img class="card-thumb" src="'+thumb+'" alt="'+(a.title||'').replace(/"/g,'')+'" loading="lazy" decoding="async" onerror="this.remove()"><div class="card-thumb-fallback">'+em(a.topic)+'</div></div><div class="card-body"><div class="card-meta"><span class="card-pill">Copyright</span><span class="card-date">'+fmtDate(a.date)+'</span></div><div class="card-title">'+hl(a.title||'',q)+'</div><div class="card-excerpt">'+hl(a.excerpt||'',q)+'</div><div class="card-cta">Read Article <span class="cta-arrow">→</span></div></div>';
       grid.appendChild(c);
     });
     pinfo.textContent='Showing '+(s+1)+'–'+e+' of '+filtered.length+' article'+(filtered.length!==1?'s':'');

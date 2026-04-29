@@ -317,7 +317,7 @@
 
   function highlight(text, q){
     if(!q||q.length<2) return text;
-    var safe=q.replace(/[.*+?^${}()|[\]\]/g,'\$&');
+    var safe=q.replace(/[.*+?^${}()|[\]\\]/g,'\$&');
     return text.replace(new RegExp('('+safe+')','gi'),'<mark>$1</mark>');
   }
 
@@ -381,7 +381,7 @@
       card.style.animationDelay=(i*0.04)+'s';
       card.innerHTML=
         '<div class="card-thumb-wrap">'+
-          '<img class="card-thumb" src="'+thumb+'" alt="'+(a.title||'').replace(/"/g,'')+'" loading="lazy" decoding="async" onerror="this.style.display='none'">'+
+          '<img class="card-thumb" src="'+thumb+'" alt="'+(a.title||'').replace(/"/g,'')+'" loading="lazy" decoding="async" onerror="this.remove()">'+
           '<div class="card-thumb-fallback">'+getEmoji(a.topic)+'</div>'+
         '</div>'+
         '<div class="card-body">'+

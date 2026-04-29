@@ -211,7 +211,7 @@
   var clr=document.getElementById("xb"),hint=document.getElementById("sht");
   var ssi=document.getElementById("ssi"),sst=document.getElementById("sst");
   function fd(d){try{return new Date(d).toLocaleDateString("en-IN",{day:"numeric",month:"long",year:"numeric"});}catch(e){return d;}}
-  function hl(t,q){if(!q||q.length<2)return t;var r=q.replace(/[.*+?^${}()|[\]\]/g,"\$&");return t.replace(new RegExp("("+r+")","gi"),"<mark>$1</mark>");}
+  function hl(t,q){if(!q||q.length<2)return t;var r=q.replace(/[.*+?^${}()|[\]\\]/g,"\$&");return t.replace(new RegExp("("+r+")","gi"),"<mark>$1</mark>");}
   function em(s){return EM[s]||EM["default"]||"&#x1F4C4;";}
   fetch("/articles.json").then(function(r){return r.json();}).then(function(d){
     all=(d.articles||d).filter(function(a){return a.subject===S&&a.topic===T;});
@@ -241,7 +241,7 @@
       c.className="ac";c.href=url;c.target="_blank";c.rel="noopener noreferrer";
       c.style.animationDelay=(i*.04)+"s";
       var tit=(a.title||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
-      c.innerHTML='<div class="tw"><img class="ti" src="'+th+'" alt="'+tit+'" loading="lazy" decoding="async" onerror="this.style.display='none'"><div class="tf">'+em(a.topic)+'</div></div><div class="bdy"><div class="mt"><span class="pl">Affidavits</span><span class="dt">'+fd(a.date)+'</span></div><div class="ttl">'+hl(a.title||"",q)+'</div><div class="ex">'+hl(a.excerpt||"",q)+'</div><div class="ra">Read Article <span class="ar">&#x2192;</span></div></div>';
+      c.innerHTML='<div class="tw"><img class="ti" src="'+th+'" alt="'+tit+'" loading="lazy" decoding="async" onerror="this.remove()"><div class="tf">'+em(a.topic)+'</div></div><div class="bdy"><div class="mt"><span class="pl">Affidavits</span><span class="dt">'+fd(a.date)+'</span></div><div class="ttl">'+hl(a.title||"",q)+'</div><div class="ex">'+hl(a.excerpt||"",q)+'</div><div class="ra">Read Article <span class="ar">&#x2192;</span></div></div>';
       grid.appendChild(c);
     });
     pi.textContent="Showing "+(s+1)+"&#x2013;"+e+" of "+fil.length+" article"+(fil.length!==1?"s":"");
