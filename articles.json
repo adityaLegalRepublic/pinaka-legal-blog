@@ -81,6 +81,42 @@
     "thumb": "police-notice-do-i-have-to-go-right-now-thumb.webp"
   },
   {
+    "slug": "chargesheet-not-filed-90-days-walk-free",
+    "subject": "criminal-law",
+    "topic": "arrest-aftermath",
+    "title": "Charge Sheet Not Filed in 90 Days: Your Right to Walk Out of Jail",
+    "excerpt": "Police missed the 60 or 90-day chargesheet deadline? Default bail under Section 167(2) is your right. Plain-English guide to claiming it before it slips away.",
+    "date": "2026-04-29",
+    "thumb": "chargesheet-not-filed-90-days-walk-free-thumb.webp"
+  },
+  {
+    "slug": "how-long-can-magistrate-keep-him-in-custody",
+    "subject": "criminal-law",
+    "topic": "arrest-aftermath",
+    "title": "Magistrate Sent Him to Jail: How Long Can They Keep Him Before Filing the Case?",
+    "excerpt": "Wondering how long they can keep your relative in jail without the case being filed? Plain-English guide to the 60 and 90-day investigation custody clock under the CrPC.",
+    "date": "2026-04-29",
+    "thumb": "how-long-can-magistrate-keep-him-in-custody-thumb.webp"
+  },
+  {
+    "slug": "meeting-family-member-in-custody",
+    "subject": "criminal-law",
+    "topic": "arrest-aftermath",
+    "title": "Family Member in Police Custody: When and How Can I Meet Him?",
+    "excerpt": "Your relative is in police lockup or jail. When can you meet him? Plain-English guide to visiting rights, lawyer access, and Section 41D and 50A protections.",
+    "date": "2026-04-29",
+    "thumb": "meeting-family-member-in-custody-thumb.webp"
+  },
+  {
+    "slug": "police-remand-vs-judicial-custody-difference",
+    "subject": "criminal-law",
+    "topic": "arrest-aftermath",
+    "title": "Police Remand vs Judicial Custody: Why He's Still in Police Lockup and What Comes Next",
+    "excerpt": "Confused why your relative is still in police lockup, not jail? Plain-English guide to police custody vs judicial custody, the 15-day rule, and remand hearings.",
+    "date": "2026-04-29",
+    "thumb": "police-remand-vs-judicial-custody-difference-thumb.webp"
+  },
+  {
     "slug": "name-in-fir-but-innocent-what-to-do",
     "subject": "criminal-law",
     "topic": "accused-defence",
