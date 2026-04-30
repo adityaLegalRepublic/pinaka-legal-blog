@@ -86,9 +86,9 @@
     .article-card{display:flex;flex-direction:column;background:#fff;border-radius:var(--radius);border:1px solid var(--border);box-shadow:var(--shadow-sm);overflow:hidden;transition:transform var(--tr),box-shadow var(--tr),border-color var(--tr);text-decoration:none;color:inherit}
     .article-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg);border-color:rgba(var(--accent-rgb),0.3)}
     .card-thumb-wrap{overflow:hidden;position:relative;padding-top:56.25%;background:linear-gradient(135deg,#160812,#2c1024)}
-    .card-thumb{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;transition:transform 0.4s cubic-bezier(0.4,0,0.2,1)}
+    .card-thumb{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;transition:transform 0.4s cubic-bezier(0.4,0,0.2,1);z-index:2}
     .article-card:hover .card-thumb{transform:scale(1.05)}
-    .card-thumb-fallback{position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2.4rem;opacity:0.7}
+    .card-thumb-fallback{position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2.4rem;opacity:0.7;z-index:1;pointer-events:none}
     .card-body{padding:0.95rem 1.05rem 1.1rem;flex:1;display:flex;flex-direction:column;gap:6px}
     .card-meta{display:flex;align-items:center;justify-content:space-between;gap:6px}
     .card-pill{font-size:0.63rem;font-family:Arial,sans-serif;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;background:rgba(var(--accent-rgb),0.10);color:var(--accent);padding:2px 8px;border-radius:8px;white-space:nowrap}
