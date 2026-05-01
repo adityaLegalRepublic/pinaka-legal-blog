@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "divorce-if-wife-refuses",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "My Wife Refuses to Divorce — Can I Still File?",
+  "excerpt": "Your wife refusing to divorce does not block you. Under Section 13(1) HMA, you can file for divorce on cruelty, desertion or other grounds — even ex parte if she won't appear.",
+  "date": "2026-04-30",
+  "thumb": "divorce-if-wife-refuses-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/divorce-if-wife-refuses/
+    index.html
+    divorce-if-wife-refuses-thumb.webp
+    header.webp

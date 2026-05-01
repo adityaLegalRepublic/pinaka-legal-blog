@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "property-bought-during-marriage-who-owns",
+  "subject": "family-law",
+  "topic": "divorce-after",
+  "title": "Property Bought During Marriage — Who Actually Owns It?",
+  "excerpt": "Married couples buy flats, cars and savings together — but under Hindu law, who owns what after separation? Learn the contribution principle, Section 27 HMA and how courts decide.",
+  "date": "2026-05-01",
+  "thumb": "property-bought-during-marriage-who-owns-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-after/property-bought-during-marriage-who-owns/
+    index.html            ← rename property-bought-during-marriage-who-owns.html to this
+    property-bought-during-marriage-who-owns-thumb.webp
+    header.webp

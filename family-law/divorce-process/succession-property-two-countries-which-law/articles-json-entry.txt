@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "succession-property-two-countries-which-law",
+  "subject": "family-law",
+  "topic": "divorce-process",
+  "title": "Property in Two Countries — Which Succession Law Applies When a Hindu Dies?",
+  "excerpt": "NRI Hindu family with property in India and abroad? Learn which country's succession law governs each asset — lex situs for land, domicile for movables.",
+  "date": "2026-05-01",
+  "thumb": "succession-property-two-countries-which-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-process/succession-property-two-countries-which-law/
+    index.html            <- rename succession-property-two-countries-which-law.html to this
+    succession-property-two-countries-which-law-thumb.webp
+    header.webp

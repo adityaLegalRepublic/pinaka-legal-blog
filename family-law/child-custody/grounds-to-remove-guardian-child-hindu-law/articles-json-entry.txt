@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "grounds-to-remove-guardian-child-hindu-law",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "When Can a Guardian Be Removed? Grounds Under Hindu Law",
+  "excerpt": "Discover the legal grounds to remove a guardian under Hindu law — abuse, neglect, insolvency, moral unfitness — and how to petition the court for the child's welfare.",
+  "date": "2026-05-01",
+  "thumb": "grounds-to-remove-guardian-child-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/grounds-to-remove-guardian-child-hindu-law/
+    index.html
+    grounds-to-remove-guardian-child-hindu-law-thumb.webp
+    header.webp

@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "recover-gold-jewellery-given-at-wedding",
+  "subject": "family-law",
+  "topic": "divorce-after",
+  "title": "How to Recover Gold and Jewellery Given at Your Wedding",
+  "excerpt": "Your wedding gold and jewellery is streedhan — legally yours. Learn how to recover ornaments after divorce or separation under Hindu law, with civil and criminal options.",
+  "date": "2026-04-30",
+  "thumb": "recover-gold-jewellery-given-at-wedding-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-after/recover-gold-jewellery-given-at-wedding/
+    index.html            <- rename recover-gold-jewellery-given-at-wedding.html to this
+    recover-gold-jewellery-given-at-wedding-thumb.webp
+    header.webp

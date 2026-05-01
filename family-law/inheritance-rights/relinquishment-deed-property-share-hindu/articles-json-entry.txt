@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "relinquishment-deed-property-share-hindu",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Relinquishment Deed — How to Voluntarily Give Up Your Share in Property",
+  "excerpt": "Want to give up your share in ancestral or inherited property in favour of a sibling? Learn how a relinquishment deed works, what it costs, and when you can challenge it.",
+  "date": "2026-05-01",
+  "thumb": "relinquishment-deed-property-share-hindu-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/relinquishment-deed-property-share-hindu/
+    index.html
+    relinquishment-deed-property-share-hindu-thumb.webp
+    header.webp

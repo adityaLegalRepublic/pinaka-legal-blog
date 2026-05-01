@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "class-i-class-ii-heirs-hindu-succession",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Hindu Succession Without a Will — Class I and Class II Heirs Explained",
+  "excerpt": "Father died without a will? Learn exactly who inherits under Hindu law — Class I and Class II heirs, their order, and how the property is divided under the HSA 1956.",
+  "date": "2026-04-30",
+  "thumb": "class-i-class-ii-heirs-hindu-succession-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/class-i-class-ii-heirs-hindu-succession/
+    index.html            ← rename class-i-class-ii-heirs-hindu-succession.html to this
+    class-i-class-ii-heirs-hindu-succession-thumb.webp
+    header.webp

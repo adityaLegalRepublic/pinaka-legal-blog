@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "second-wife-children-property-rights-hindu-law",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Second Wife’s Children and Property Rights Under Hindu Law",
+  "excerpt": "Can children of a second wife inherit property under Hindu law? Learn what Section 16 HMA and Section 8 HSA say about their rights, with key court cases explained.",
+  "date": "2026-05-01",
+  "thumb": "second-wife-children-property-rights-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/second-wife-children-property-rights-hindu-law/
+    index.html            <- rename second-wife-children-property-rights-hindu-law.html to this
+    second-wife-children-property-rights-hindu-law-thumb.webp
+    header.webp

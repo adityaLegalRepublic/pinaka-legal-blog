@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "divorce-husband-for-beating-cruelty",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "My Husband Beats Me — Can I Divorce Him for That?",
+  "excerpt": "Yes — beating and physical violence are cruelty under Section 13(1)(ia) HMA. Learn what courts require as proof and how to file for divorce safely.",
+  "date": "2026-04-30",
+  "thumb": "divorce-husband-for-beating-cruelty-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/divorce-husband-for-beating-cruelty/
+    index.html            ← rename divorce-husband-for-beating-cruelty.html to this
+    divorce-husband-for-beating-cruelty-thumb.webp
+    header.webp

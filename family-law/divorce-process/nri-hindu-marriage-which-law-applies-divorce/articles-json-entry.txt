@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "nri-hindu-marriage-which-law-applies-divorce",
+  "subject": "family-law",
+  "topic": "divorce-process",
+  "title": "NRI Hindu Marriage — Which Country's Law Applies at Divorce?",
+  "excerpt": "Married in India, living abroad — who decides your divorce? Learn how Indian courts apply HMA to NRIs, when foreign decrees are valid, and what domicile means for you.",
+  "date": "2026-05-01",
+  "thumb": "nri-hindu-marriage-which-law-applies-divorce-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-process/nri-hindu-marriage-which-law-applies-divorce/
+    index.html            ← rename nri-hindu-marriage-which-law-applies-divorce.html to this
+    nri-hindu-marriage-which-law-applies-divorce-thumb.webp
+    header.webp

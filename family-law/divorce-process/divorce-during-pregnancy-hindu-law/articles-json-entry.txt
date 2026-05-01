@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "divorce-during-pregnancy-hindu-law",
+  "subject": "family-law",
+  "topic": "divorce-process",
+  "title": "Can You Get a Divorce While Your Wife Is Pregnant?",
+  "excerpt": "Can a husband get divorce while his wife is pregnant? Know the Section 23(2) HMA bar, maintenance rights during pregnancy, and what happens to the child.",
+  "date": "2026-05-01",
+  "thumb": "divorce-during-pregnancy-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-process/divorce-during-pregnancy-hindu-law/
+    index.html            ← main article file
+    divorce-during-pregnancy-hindu-law-thumb.webp
+    header.webp

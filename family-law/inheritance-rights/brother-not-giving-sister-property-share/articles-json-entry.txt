@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "brother-not-giving-sister-property-share",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Brother Is Not Giving Sister Her Share in Property",
+  "excerpt": "Your brother cannot legally deny you your share in family property. Learn how Section 6 and Section 8 of the Hindu Succession Act protect your rights, and what steps to take now.",
+  "date": "2026-05-01",
+  "thumb": "brother-not-giving-sister-property-share-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/brother-not-giving-sister-property-share/
+    index.html            <- rename brother-not-giving-sister-property-share.html to this
+    brother-not-giving-sister-property-share-thumb.webp
+    header.webp

@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "foreign-divorce-valid-in-india",
+  "subject": "family-law",
+  "topic": "divorce-process",
+  "title": "Is a Foreign Divorce Valid in India? What the Courts Say",
+  "excerpt": "Your spouse got a foreign divorce but you live in India. Is it valid? Indian courts apply strict tests. Learn exactly when a foreign divorce decree is recognised.",
+  "date": "2026-05-01",
+  "thumb": "foreign-divorce-valid-in-india-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-process/foreign-divorce-valid-in-india/
+    index.html            <- rename foreign-divorce-valid-in-india.html to this
+    foreign-divorce-valid-in-india-thumb.webp
+    header.webp

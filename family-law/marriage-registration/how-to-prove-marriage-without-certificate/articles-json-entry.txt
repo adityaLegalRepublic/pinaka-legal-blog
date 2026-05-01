@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "how-to-prove-marriage-without-certificate",
+  "subject": "family-law",
+  "topic": "marriage-registration",
+  "title": "How to Prove Your Marriage in Court When You Have No Certificate",
+  "excerpt": "No marriage certificate? Indian law offers multiple ways to prove your marriage is valid — from witness testimony to the legal presumption of long cohabitation. Know your rights.",
+  "date": "2026-05-01",
+  "thumb": "how-to-prove-marriage-without-certificate-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/marriage-registration/how-to-prove-marriage-without-certificate/
+    index.html
+    how-to-prove-marriage-without-certificate-thumb.webp
+    header.webp

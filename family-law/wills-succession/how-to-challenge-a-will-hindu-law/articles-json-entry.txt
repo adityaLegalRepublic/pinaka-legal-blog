@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "how-to-challenge-a-will-hindu-law",
+  "subject": "family-law",
+  "topic": "wills-succession",
+  "title": "Can You Challenge a Will? Grounds for Contesting Under Hindu Law",
+  "excerpt": "Find out when and how you can challenge a will under Hindu law — fraud, undue influence, forgery, unsound mind and suspicious circumstances explained with cases.",
+  "date": "2026-05-01",
+  "thumb": "how-to-challenge-a-will-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/wills-succession/how-to-challenge-a-will-hindu-law/
+    index.html            <- rename how-to-challenge-a-will-hindu-law.html to this
+    how-to-challenge-a-will-hindu-law-thumb.webp
+    header.webp

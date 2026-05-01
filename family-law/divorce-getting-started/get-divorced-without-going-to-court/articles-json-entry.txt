@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "get-divorced-without-going-to-court",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Can You Get Divorced Without Going to Court in India?",
+  "excerpt": "Many couples want divorce with minimum court visits. Learn what Section 13B mutual consent divorce actually requires, how two court appearances work, and when the 6-month wait can be skipped.",
+  "date": "2026-04-30",
+  "thumb": "get-divorced-without-going-to-court-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/get-divorced-without-going-to-court/
+    index.html            <- rename get-divorced-without-going-to-court.html to this
+    get-divorced-without-going-to-court-thumb.webp
+    header.webp

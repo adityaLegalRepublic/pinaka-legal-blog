@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "how-to-make-valid-hindu-will",
+  "subject": "family-law",
+  "topic": "wills-succession",
+  "title": "How to Make a Valid Hindu Will — Requirements, Witnesses, Format",
+  "excerpt": "Learn the exact legal steps to make a valid Hindu will in India — Section 63 ISA, two witnesses, signature rules, and how courts spot a fake will.",
+  "date": "2026-04-30",
+  "thumb": "how-to-make-valid-hindu-will-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/wills-succession/how-to-make-valid-hindu-will/
+    index.html            <- rename how-to-make-valid-hindu-will.html to this
+    how-to-make-valid-hindu-will-thumb.webp
+    header.webp

@@ -1,0 +1,12 @@
+{
+  "slug": "remarriage-after-divorce-hindu-law-rules",
+  "title": "Remarriage After Divorce: How Long Must You Wait Under Hindu Law?",
+  "excerpt": "Divorced under Hindu law and planning to remarry? Section 15 HMA requires waiting for the appeal window to close. Know the rules, risks, and exceptions.",
+  "thumb": "remarriage-after-divorce-hindu-law-rules-thumb.webp",
+  "date": "2026-04-30",
+  "topic": "Divorce - After",
+  "topicSlug": "divorce-after",
+  "subject": "Family Law",
+  "subjectSlug": "family-law",
+  "url": "https://blog.pinakalegal.com/family-law/divorce-after/remarriage-after-divorce-hindu-law-rules/"
+}

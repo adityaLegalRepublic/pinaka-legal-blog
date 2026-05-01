@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "spouse-disappeared-7-years-remarry",
+  "subject": "family-law",
+  "topic": "divorce-process",
+  "title": "My Spouse Has Disappeared for 7 Years — Can I Remarry?",
+  "excerpt": "If your spouse has been missing for 7+ years, Section 13(1)(vii) of the Hindu Marriage Act lets you file for divorce. Learn how courts grant the decree and when you can remarry.",
+  "date": "2026-05-01",
+  "thumb": "spouse-disappeared-7-years-remarry-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-process/spouse-disappeared-7-years-remarry/
+    index.html            ← already named correctly
+    spouse-disappeared-7-years-remarry-thumb.webp
+    header.webp

@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "widow-remarriage-loses-succession-rights",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Widow Who Remarries — Does She Lose Rights in Her First Husband's Property?",
+  "excerpt": "If you remarry, do you lose the property you inherited from your first husband? The Hindu Succession Act 1956 has a clear answer. Read what the law says.",
+  "date": "2026-05-01",
+  "thumb": "widow-remarriage-loses-succession-rights-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/widow-remarriage-loses-succession-rights/
+    index.html
+    widow-remarriage-loses-succession-rights-thumb.webp
+    header.webp

@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "adult-son-maintenance-from-father",
+  "subject": "family-law",
+  "topic": "maintenance",
+  "title": "Can an Adult Son Claim Maintenance From His Father?",
+  "excerpt": "Under Section 20 HAMA, a son's right to maintenance ends at majority. Learn the exceptions, the rule for daughters, and what the law actually says about adult children.",
+  "date": "2026-05-01",
+  "thumb": "adult-son-maintenance-from-father-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/maintenance/adult-son-maintenance-from-father/
+    index.html            <- rename adult-son-maintenance-from-father.html to this
+    adult-son-maintenance-from-father-thumb.webp
+    header.webp

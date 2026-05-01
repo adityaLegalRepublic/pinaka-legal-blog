@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "who-gets-flat-after-divorce",
+  "subject": "family-law",
+  "topic": "divorce-after",
+  "title": "Who Gets the Flat After Divorce? How Indian Courts Decide",
+  "excerpt": "Divorcing couple with a jointly held flat? Learn how Indian courts use Section 27 HMA, the 6 Balkrishna Kadam conditions, and property settlement rules to decide who gets the flat.",
+  "date": "2026-04-30",
+  "thumb": "who-gets-flat-after-divorce-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-after/who-gets-flat-after-divorce/
+    index.html            ← rename who-gets-flat-after-divorce.html to this
+    who-gets-flat-after-divorce-thumb.webp
+    header.webp

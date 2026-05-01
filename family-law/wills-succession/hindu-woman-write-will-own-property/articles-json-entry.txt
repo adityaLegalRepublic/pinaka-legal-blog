@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "hindu-woman-write-will-own-property",
+  "subject": "family-law",
+  "topic": "wills-succession",
+  "title": "Can a Hindu Woman Write a Will for Her Own Property?",
+  "excerpt": "Yes, a Hindu woman can write a will for her own property. Learn how Section 14, Section 30 of the HSA 1956, and Stridhana rights give her full testamentary freedom.",
+  "date": "2026-05-01",
+  "thumb": "hindu-woman-write-will-own-property-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/wills-succession/hindu-woman-write-will-own-property/
+    index.html            <- rename hindu-woman-write-will-own-property.html to this
+    hindu-woman-write-will-own-property-thumb.webp
+    header.webp

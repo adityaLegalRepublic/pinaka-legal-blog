@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "adopted-child-rights-birth-family-property",
+  "subject": "family-law",
+  "topic": "adoption",
+  "title": "What Happens to an Adopted Child's Rights in the Birth Family?",
+  "excerpt": "Once a child is adopted under Hindu law, all ties with the birth family are legally severed. But two important exceptions survive. Know your rights under Section 12 HAMA.",
+  "date": "2026-05-01",
+  "thumb": "adopted-child-rights-birth-family-property-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/adoption/adopted-child-rights-birth-family-property/
+    index.html            <- rename adopted-child-rights-birth-family-property.html to this
+    adopted-child-rights-birth-family-property-thumb.webp
+    header.webp

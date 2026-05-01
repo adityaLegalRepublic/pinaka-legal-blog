@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "widow-maintenance-from-father-in-law-section-19",
+  "subject": "family-law",
+  "topic": "maintenance",
+  "title": "Widow’s Right to Maintenance From Her Father-in-Law — Section 19 HAMA",
+  "excerpt": "After your husband dies, can you claim maintenance from your father-in-law? Yes — Section 19 HAMA gives you this right. Know the conditions, cases, and limits.",
+  "date": "2026-05-01",
+  "thumb": "widow-maintenance-from-father-in-law-section-19-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/maintenance/widow-maintenance-from-father-in-law-section-19/
+    index.html
+    widow-maintenance-from-father-in-law-section-19-thumb.webp
+    header.webp

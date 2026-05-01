@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "partial-partition-huf-property-how-it-works",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Partial Partition of HUF — Can You Split Some Property and Keep the Rest Joint?",
+  "excerpt": "Want to divide the family shop but keep the ancestral home joint? Learn how partial partition of HUF works, what the law says, and the risks involved.",
+  "date": "2026-05-01",
+  "thumb": "partial-partition-huf-property-how-it-works-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/partial-partition-huf-property-how-it-works/
+    index.html            <- rename partial-partition-huf-property-how-it-works.html to this
+    partial-partition-huf-property-how-it-works-thumb.webp
+    header.webp

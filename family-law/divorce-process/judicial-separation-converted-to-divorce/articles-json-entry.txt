@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "judicial-separation-converted-to-divorce",
+  "subject": "family-law",
+  "topic": "divorce-process",
+  "title": "Can Judicial Separation Be Converted to Divorce Without Filing Again?",
+  "excerpt": "Already have a judicial separation decree? Learn how Section 13(1A) HMA lets either spouse convert it to a full divorce after one year — without re-proving grounds.",
+  "date": "2026-05-01",
+  "thumb": "judicial-separation-converted-to-divorce-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-process/judicial-separation-converted-to-divorce/
+    index.html
+    judicial-separation-converted-to-divorce-thumb.webp
+    header.webp

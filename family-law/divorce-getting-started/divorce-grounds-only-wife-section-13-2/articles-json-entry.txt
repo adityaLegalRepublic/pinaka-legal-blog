@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "divorce-grounds-only-wife-section-13-2",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Grounds for Divorce Available Only to the Wife — Section 13(2) HMA",
+  "excerpt": "Section 13(2) of the Hindu Marriage Act gives wives four special divorce grounds — pre-Act polygamy, rape/sodomy, maintenance default, and option of puberty. Know your rights.",
+  "date": "2026-05-01",
+  "thumb": "divorce-grounds-only-wife-section-13-2-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/divorce-grounds-only-wife-section-13-2/
+    index.html            <- rename divorce-grounds-only-wife-section-13-2.html to this
+    divorce-grounds-only-wife-section-13-2-thumb.webp
+    header.webp

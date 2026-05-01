@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "one-year-bar-on-divorce-hindu-law",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Why You Can’t File for Divorce in the First Year of Marriage — and What to Do If You Have No Choice",
+  "excerpt": "Under Section 14 of the Hindu Marriage Act, no divorce petition can be filed within the first year of marriage. Know when courts allow exceptions and how to apply for leave.",
+  "date": "2026-04-30",
+  "thumb": "one-year-bar-on-divorce-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/one-year-bar-on-divorce-hindu-law/
+    index.html            <- rename one-year-bar-on-divorce-hindu-law.html to this
+    one-year-bar-on-divorce-hindu-law-thumb.webp
+    header.webp

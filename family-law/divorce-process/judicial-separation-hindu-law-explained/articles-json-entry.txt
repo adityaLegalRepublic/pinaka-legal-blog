@@ -1,0 +1,12 @@
+{
+  "slug": "judicial-separation-hindu-law-explained",
+  "title": "Judicial Separation Under Hindu Law — Living Apart Without Ending the Marriage",
+  "excerpt": "Judicial separation under Section 10 HMA lets you live apart without ending the marriage. Learn how it differs from divorce and what rights you keep.",
+  "thumb": "judicial-separation-hindu-law-explained-thumb.webp",
+  "date": "2026-04-30",
+  "topic": "Divorce - Process",
+  "topicSlug": "divorce-process",
+  "subject": "Family Law",
+  "subjectSlug": "family-law",
+  "url": "https://blog.pinakalegal.com/family-law/divorce-process/judicial-separation-hindu-law-explained/"
+}

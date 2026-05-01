@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "hindu-widow-maintenance-from-in-laws",
+  "subject": "family-law",
+  "topic": "maintenance",
+  "title": "Hindu Widow's Right to Maintenance From Her In-Laws — HAMA Section 19 Explained",
+  "excerpt": "If your husband has died and your in-laws refuse support, HAMA Section 19 gives you a legal right to claim maintenance from your father-in-law. Know your rights.",
+  "date": "2026-04-30",
+  "thumb": "hindu-widow-maintenance-from-in-laws-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/maintenance/hindu-widow-maintenance-from-in-laws/
+    index.html            <- rename hindu-widow-maintenance-from-in-laws.html to this
+    hindu-widow-maintenance-from-in-laws-thumb.webp
+    header.webp

@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "mother-inherit-from-son-property-hindu-law",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Mother's Right to Inherit From Her Son's Property",
+  "excerpt": "If your son has died without a will, Hindu law gives you a first-rank right to his property. Know your Class I heir status under HSA Section 8 and how your share is calculated.",
+  "date": "2026-04-30",
+  "thumb": "mother-inherit-from-son-property-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/mother-inherit-from-son-property-hindu-law/
+    index.html            <- rename mother-inherit-from-son-property-hindu-law.html to this
+    mother-inherit-from-son-property-hindu-law-thumb.webp
+    header.webp

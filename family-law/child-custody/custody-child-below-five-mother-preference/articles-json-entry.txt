@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "custody-child-below-five-mother-preference",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "Custody of Child Below 5: Why the Mother Almost Always Wins Under Hindu Law",
+  "excerpt": "Under Hindu law, a child below 5 ordinarily stays with the mother. Know Section 6(a) HMGA, when the presumption can be rebutted, and what you must do now.",
+  "date": "2026-04-30",
+  "thumb": "custody-child-below-five-mother-preference-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/custody-child-below-five-mother-preference/
+    index.html            <- rename custody-child-below-five-mother-preference.html to this
+    custody-child-below-five-mother-preference-thumb.webp
+    header.webp

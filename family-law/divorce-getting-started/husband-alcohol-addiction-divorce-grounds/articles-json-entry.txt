@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "husband-alcohol-addiction-divorce-grounds",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Husband's Alcohol Addiction as Grounds for Divorce — Does It Work?",
+  "excerpt": "Can a wife divorce an alcoholic husband in India? Yes — under HMA Sec 13(1)(ia) cruelty. Learn what courts require, key cases, and practical steps.",
+  "date": "2026-04-30",
+  "thumb": "husband-alcohol-addiction-divorce-grounds-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/husband-alcohol-addiction-divorce-grounds/
+    index.html            <- rename husband-alcohol-addiction-divorce-grounds.html to this
+    husband-alcohol-addiction-divorce-grounds-thumb.webp
+    header.webp

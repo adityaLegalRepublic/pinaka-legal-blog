@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "can-father-disinherit-son-hindu-law",
+  "subject": "family-law",
+  "topic": "wills-succession",
+  "title": "Can a Father Disinherit His Son Completely Under Hindu Law?",
+  "excerpt": "Wondering if your father can cut you out of his will completely under Hindu law? Learn about coparcenary rights, Section 30, and what the law actually protects.",
+  "date": "2026-05-01",
+  "thumb": "can-father-disinherit-son-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/wills-succession/can-father-disinherit-son-hindu-law/
+    index.html            ← rename can-father-disinherit-son-hindu-law.html to this
+    can-father-disinherit-son-hindu-law-thumb.webp
+    header.webp

@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "how-to-modify-child-custody-order",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "How to Modify a Child Custody Order When Circumstances Change",
+  "excerpt": "Circumstances change after divorce — so can custody orders. Learn the legal grounds, process, and key cases to modify child custody under Indian law.",
+  "date": "2026-05-01",
+  "thumb": "how-to-modify-child-custody-order-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/how-to-modify-child-custody-order/
+    index.html            <- rename from how-to-modify-child-custody-order.html
+    how-to-modify-child-custody-order-thumb.webp
+    header.webp

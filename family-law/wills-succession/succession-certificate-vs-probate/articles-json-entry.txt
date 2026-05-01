@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "succession-certificate-vs-probate",
+  "subject": "family-law",
+  "topic": "wills-succession",
+  "title": "Succession Certificate vs Probate — Which One Do You Actually Need?",
+  "excerpt": "Bank won't release funds after a death? Learn when you need a succession certificate, when probate is mandatory, and what applies to your situation in India.",
+  "date": "2026-05-01",
+  "thumb": "succession-certificate-vs-probate-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/wills-succession/succession-certificate-vs-probate/
+    index.html            <- rename succession-certificate-vs-probate.html to this
+    succession-certificate-vs-probate-thumb.webp
+    header.webp

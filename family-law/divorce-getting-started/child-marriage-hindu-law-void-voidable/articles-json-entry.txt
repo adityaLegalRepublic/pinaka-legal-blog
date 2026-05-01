@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "child-marriage-hindu-law-void-voidable",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Child Marriage and Hindu Law — Is It Void or Voidable?",
+  "excerpt": "Married before 18 under Hindu law? Your marriage is voidable, not void. Learn about Section 13(2)(iv) repudiation rights, PCMA 2006, and how to file a petition.",
+  "date": "2026-05-01",
+  "thumb": "child-marriage-hindu-law-void-voidable-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/child-marriage-hindu-law-void-voidable/
+    index.html            ← rename child-marriage-hindu-law-void-voidable.html to this
+    child-marriage-hindu-law-void-voidable-thumb.webp
+    header.webp

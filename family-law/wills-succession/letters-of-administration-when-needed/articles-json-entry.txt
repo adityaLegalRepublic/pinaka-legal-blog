@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "letters-of-administration-when-needed",
+  "subject": "family-law",
+  "topic": "wills-succession",
+  "title": "Letters of Administration — When You Need It Instead of Probate",
+  "excerpt": "No will, or will without an executor? Learn how Letters of Administration work under the Indian Succession Act 1925, who can apply, and what the court requires.",
+  "date": "2026-05-01",
+  "thumb": "letters-of-administration-when-needed-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/wills-succession/letters-of-administration-when-needed/
+    index.html            <- rename letters-of-administration-when-needed.html to this
+    letters-of-administration-when-needed-thumb.webp
+    header.webp

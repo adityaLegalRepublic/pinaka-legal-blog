@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "reopen-partition-hindu-law-grounds",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Can a Partition Once Done Be Reopened Under Hindu Law?",
+  "excerpt": "Find out when a Hindu family partition can be challenged—fraud, omitted property, minor's rights, absent members. Limitation period and court procedure explained.",
+  "date": "2026-05-01",
+  "thumb": "reopen-partition-hindu-law-grounds-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/reopen-partition-hindu-law-grounds/
+    index.html
+    reopen-partition-hindu-law-grounds-thumb.webp
+    header.webp

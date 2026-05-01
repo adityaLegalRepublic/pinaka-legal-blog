@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "grandson-rights-grandfather-property",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Grandson's Right in Grandfather's Property — Does Representation Apply?",
+  "excerpt": "Can a grandson claim a share in his grandfather's property when his father is dead? Learn how Section 8, Section 10, and the rule of representation under the Hindu Succession Act protect grandson's rights.",
+  "date": "2026-05-01",
+  "thumb": "grandson-rights-grandfather-property-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/grandson-rights-grandfather-property/
+    index.html
+    grandson-rights-grandfather-property-thumb.webp
+    header.webp

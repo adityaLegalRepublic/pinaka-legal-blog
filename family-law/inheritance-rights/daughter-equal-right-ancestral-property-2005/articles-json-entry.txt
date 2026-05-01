@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "daughter-equal-right-ancestral-property-2005",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Daughter's Equal Right in Ancestral Property — The 2005 Amendment in Plain Words",
+  "excerpt": "The 2005 amendment gives daughters equal rights in ancestral property. Know your legal share, how to claim it, and what your brothers cannot do to stop you.",
+  "date": "2026-04-30",
+  "thumb": "daughter-equal-right-ancestral-property-2005-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/daughter-equal-right-ancestral-property-2005/
+    index.html            <- rename daughter-equal-right-ancestral-property-2005.html to this
+    daughter-equal-right-ancestral-property-2005-thumb.webp
+    header.webp

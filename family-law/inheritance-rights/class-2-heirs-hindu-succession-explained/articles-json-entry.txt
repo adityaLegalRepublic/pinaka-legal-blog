@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "class-2-heirs-hindu-succession-explained",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Class II Heirs — Who Are They and When Do They Inherit?",
+  "excerpt": "Find out who the Class II heirs are under the Hindu Succession Act 1956, the nine entries in Schedule II, their priority order, and when they inherit in the absence of Class I heirs.",
+  "date": "2026-05-01",
+  "thumb": "class-2-heirs-hindu-succession-explained-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/class-2-heirs-hindu-succession-explained/
+    index.html            <- rename class-2-heirs-hindu-succession-explained.html to this
+    class-2-heirs-hindu-succession-explained-thumb.webp
+    header.webp

@@ -1,0 +1,12 @@
+{
+  "slug": "permanent-alimony-section-25-hma",
+  "title": "Permanent Alimony Under Hindu Law — How Courts Decide the Amount",
+  "excerpt": "How does a court decide permanent alimony under Section 25 HMA? Learn the factors, lump sum vs monthly options, modification rules, and when alimony stops.",
+  "thumb": "permanent-alimony-section-25-hma-thumb.webp",
+  "date": "2026-04-30",
+  "topic": "Divorce - After",
+  "topicSlug": "divorce-after",
+  "subject": "Family Law",
+  "subjectSlug": "family-law",
+  "url": "https://blog.pinakalegal.com/family-law/divorce-after/permanent-alimony-section-25-hma/"
+}

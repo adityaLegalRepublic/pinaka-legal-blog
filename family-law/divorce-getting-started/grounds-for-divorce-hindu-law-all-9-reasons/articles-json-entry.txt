@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "grounds-for-divorce-hindu-law-all-9-reasons",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Grounds for Divorce Under Hindu Law: All 9 Reasons Explained",
+  "excerpt": "A plain-language guide to all nine grounds for divorce under Section 13 of the Hindu Marriage Act 1955—plus the four wife-only grounds, breakdown grounds and mutual consent.",
+  "date": "2026-04-29",
+  "thumb": "grounds-for-divorce-hindu-law-all-9-reasons-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/grounds-for-divorce-hindu-law-all-9-reasons/
+    index.html
+    grounds-for-divorce-hindu-law-all-9-reasons-thumb.webp
+    header.webp

@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "how-to-prove-cruelty-divorce-case",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "How to Prove Cruelty in a Divorce Case — Evidence That Actually Works",
+  "excerpt": "Filing for divorce on cruelty? Learn what evidence courts actually accept — medical reports, messages, witnesses and more. Backed by HMA Sec 13(1)(ia) and Supreme Court rulings.",
+  "date": "2026-04-30",
+  "thumb": "how-to-prove-cruelty-divorce-case-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/how-to-prove-cruelty-divorce-case/
+    index.html            <- rename from how-to-prove-cruelty-divorce-case.html
+    how-to-prove-cruelty-divorce-case-thumb.webp
+    header.webp

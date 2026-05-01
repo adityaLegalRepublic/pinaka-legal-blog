@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "how-much-maintenance-wife-can-claim",
+  "subject": "family-law",
+  "topic": "maintenance",
+  "title": "How Much Maintenance Can a Wife Claim? How Courts Calculate It",
+  "excerpt": "Courts use husband's income, wife's income, standard of living, and number of dependants to fix maintenance. Learn the 1/3rd rule, real case examples, and how to calculate your amount.",
+  "date": "2026-04-30",
+  "thumb": "how-much-maintenance-wife-can-claim-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/maintenance/how-much-maintenance-wife-can-claim/
+    index.html            <- rename how-much-maintenance-wife-can-claim.html to this
+    how-much-maintenance-wife-can-claim-thumb.webp
+    header.webp

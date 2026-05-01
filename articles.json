@@ -991,5 +991,338 @@
     "excerpt": "Learn how HUF property is divided in India — karta's powers, coparcener rights, partition rules, and alienation limits under Hindu law explained plainly.",
     "date": "2026-04-30",
     "thumb": "huf-property-disputes-how-divided-thumb.webp"
+  },
+  {
+    "slug": "spouse-disappeared-7-years-remarry",
+    "subject": "family-law",
+    "topic": "divorce-process",
+    "title": "My Spouse Has Disappeared for 7 Years — Can I Remarry?",
+    "excerpt": "If your spouse has been missing for 7+ years, Section 13(1)(vii) of the Hindu Marriage Act lets you file for divorce. Learn how courts grant the decree and when you can remarry.",
+    "date": "2026-05-01",
+    "thumb": "spouse-disappeared-7-years-remarry-thumb.webp"
+  },
+  {
+    "slug": "mental-illness-ground-for-divorce",
+    "subject": "family-law",
+    "topic": "divorce-getting-started",
+    "title": "Mental Illness as a Ground for Divorce — What You Need to Prove",
+    "excerpt": "Can you divorce a spouse with mental illness in India? Learn what Section 13(1)(iii) HMA requires — degree, duration, medical proof, and what courts have held.",
+    "date": "2026-05-01",
+    "thumb": "mental-illness-ground-for-divorce-thumb.webp"
+  },
+  {
+    "slug": "divorce-grounds-only-wife-section-13-2",
+    "subject": "family-law",
+    "topic": "divorce-getting-started",
+    "title": "Grounds for Divorce Available Only to the Wife — Section 13(2) HMA",
+    "excerpt": "Section 13(2) of the Hindu Marriage Act gives wives four special divorce grounds — pre-Act polygamy, rape/sodomy, maintenance default, and option of puberty. Know your rights.",
+    "date": "2026-05-01",
+    "thumb": "divorce-grounds-only-wife-section-13-2-thumb.webp"
+  },
+  {
+    "slug": "divorce-during-pregnancy-hindu-law",
+    "subject": "family-law",
+    "topic": "divorce-process",
+    "title": "Can You Get a Divorce While Your Wife Is Pregnant?",
+    "excerpt": "Can a husband get divorce while his wife is pregnant? Know the Section 23(2) HMA bar, maintenance rights during pregnancy, and what happens to the child.",
+    "date": "2026-05-01",
+    "thumb": "divorce-during-pregnancy-hindu-law-thumb.webp"
+  },
+  {
+    "slug": "succession-certificate-vs-probate",
+    "subject": "family-law",
+    "topic": "wills-succession",
+    "title": "Succession Certificate vs Probate — Which One Do You Actually Need?",
+    "excerpt": "Bank won't release funds after a death? Learn when you need a succession certificate, when probate is mandatory, and what applies to your situation in India.",
+    "date": "2026-05-01",
+    "thumb": "succession-certificate-vs-probate-thumb.webp"
+  },
+  {
+    "slug": "no-legal-heirs-property-escheat-hindu-law",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "No Legal Heirs at All — What Happens to the Property?",
+    "excerpt": "If a Hindu dies with no Class I, Class II heirs, agnates or cognates, property goes to the government under Section 29. Learn how escheat works and how a will prevents it.",
+    "date": "2026-05-01",
+    "thumb": "no-legal-heirs-property-escheat-hindu-law-thumb.webp"
+  },
+  {
+    "slug": "half-blood-vs-full-blood-inheritance",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Half-Blood vs Full-Blood Relatives — Do They Inherit Equally?",
+    "excerpt": "Does your half-sibling inherit equally from your parent? Indian law says full-blood relatives are preferred. Know your rights under Section 18 of the Hindu Succession Act.",
+    "date": "2026-05-01",
+    "thumb": "half-blood-vs-full-blood-inheritance-thumb.webp"
+  },
+  {
+    "slug": "class-2-heirs-hindu-succession-explained",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Class II Heirs — Who Are They and When Do They Inherit?",
+    "excerpt": "Find out who the Class II heirs are under the Hindu Succession Act 1956, the nine entries in Schedule II, their priority order, and when they inherit in the absence of Class I heirs.",
+    "date": "2026-05-01",
+    "thumb": "class-2-heirs-hindu-succession-explained-thumb.webp"
+  },
+  {
+    "slug": "conversion-effect-on-inheritance-hindu-law",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Religious Conversion and Your Inheritance Rights Under Hindu Law",
+    "excerpt": "Changed your religion or has a sibling converted? Learn exactly how Section 26 of the Hindu Succession Act 1956 affects your family's inheritance rights — in plain language.",
+    "date": "2026-05-01",
+    "thumb": "conversion-effect-on-inheritance-hindu-law-thumb.webp"
+  },
+  {
+    "slug": "family-settlement-avoid-partition-court",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Family Settlement Agreement — How to Use It to Avoid a Court Battle",
+    "excerpt": "Learn how a family settlement agreement can divide inherited property without going to court. Key requirements, registration rules, and stamp duty explained.",
+    "date": "2026-05-01",
+    "thumb": "family-settlement-avoid-partition-court-thumb.webp"
+  },
+  {
+    "slug": "hindu-gift-of-property-rules-limits",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Can a Hindu Make a Gift of Property to Anyone? Rules and Limits",
+    "excerpt": "Want to gift property to your child or relative? Know the Hindu law rules — self-acquired vs coparcenary property, gift deed steps, Karta limits, and what makes a gift invalid.",
+    "date": "2026-05-01",
+    "thumb": "hindu-gift-of-property-rules-limits-thumb.webp"
+  },
+  {
+    "slug": "relinquishment-deed-property-share-hindu",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Relinquishment Deed — How to Voluntarily Give Up Your Share in Property",
+    "excerpt": "Want to give up your share in ancestral or inherited property in favour of a sibling? Learn how a relinquishment deed works, what it costs, and when you can challenge it.",
+    "date": "2026-05-01",
+    "thumb": "relinquishment-deed-property-share-hindu-thumb.webp"
+  },
+  {
+    "slug": "de-facto-guardian-child-property",
+    "subject": "family-law",
+    "topic": "child-custody",
+    "title": "De Facto Guardian — Who Can Manage a Child's Property When Parents Are Gone?",
+    "excerpt": "Uncle or grandparent caring for an orphaned child? Learn what a de facto guardian can and cannot do under Section 11 HMGA — and why court permission matters.",
+    "date": "2026-05-01",
+    "thumb": "de-facto-guardian-child-property-thumb.webp"
+  },
+  {
+    "slug": "protect-minor-child-inherited-property",
+    "subject": "family-law",
+    "topic": "child-custody",
+    "title": "How to Protect Your Minor Child's Inherited Property After Your Death",
+    "excerpt": "Worried your child's inherited property may be mismanaged after your death? Learn how Section 8 HMGA, testamentary guardianship, and court supervision protect your minor child's assets.",
+    "date": "2026-05-01",
+    "thumb": "protect-minor-child-inherited-property-thumb.webp"
+  },
+  {
+    "slug": "husband-converted-islam-second-marriage-legal",
+    "subject": "family-law",
+    "topic": "marriage-registration",
+    "title": "Husband Converted to Islam to Take a Second Wife — What Are My Rights?",
+    "excerpt": "If your husband converted to Islam and remarried, the second marriage is void under Indian law. Know your rights under HMA and IPC Section 494.",
+    "date": "2026-05-01",
+    "thumb": "husband-converted-islam-second-marriage-legal-thumb.webp"
+  },
+  {
+    "slug": "child-marriage-hindu-law-void-voidable",
+    "subject": "family-law",
+    "topic": "divorce-getting-started",
+    "title": "Child Marriage and Hindu Law — Is It Void or Voidable?",
+    "excerpt": "Married before 18 under Hindu law? Your marriage is voidable, not void. Learn about Section 13(2)(iv) repudiation rights, PCMA 2006, and how to file a petition.",
+    "date": "2026-05-01",
+    "thumb": "child-marriage-hindu-law-void-voidable-thumb.webp"
+  },
+  {
+    "slug": "simultaneous-death-inheritance-rule-india",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "When Two People Die Together — Who Inherits From Whom?",
+    "excerpt": "When a car crash or disaster kills two relatives at once, who inherits whose property? Learn the commorientes rule, Section 21 Evidence Act, and how Indian courts decide.",
+    "date": "2026-05-01",
+    "thumb": "simultaneous-death-inheritance-rule-india-thumb.webp"
+  },
+  {
+    "slug": "letters-of-administration-when-needed",
+    "subject": "family-law",
+    "topic": "wills-succession",
+    "title": "Letters of Administration — When You Need It Instead of Probate",
+    "excerpt": "No will, or will without an executor? Learn how Letters of Administration work under the Indian Succession Act 1925, who can apply, and what the court requires.",
+    "date": "2026-05-01",
+    "thumb": "letters-of-administration-when-needed-thumb.webp"
+  },
+  {
+    "slug": "venereal-disease-ground-for-divorce",
+    "subject": "family-law",
+    "topic": "divorce-getting-started",
+    "title": "Spouse Has a Venereal Disease — Is That Ground for Divorce?",
+    "excerpt": "Your spouse has a venereal disease and you want to know if you can divorce them. Section 13(1)(v) HMA explains exactly what the law requires and how to prove it.",
+    "date": "2026-05-01",
+    "thumb": "venereal-disease-ground-for-divorce-thumb.webp"
+  },
+  {
+    "slug": "renunciation-world-ground-for-divorce",
+    "subject": "family-law",
+    "topic": "divorce-getting-started",
+    "title": "Spouse Became a Sanyasi — Can You Get Divorced for Renunciation of the World?",
+    "excerpt": "If your spouse has renounced the world and joined a religious order, you can file for divorce under Section 13(1)(vi) of the Hindu Marriage Act. Know what counts as valid renunciation, proof needed, and your rights.",
+    "date": "2026-05-01",
+    "thumb": "renunciation-world-ground-for-divorce-thumb.webp"
+  },
+  {
+    "slug": "judicial-separation-converted-to-divorce",
+    "subject": "family-law",
+    "topic": "divorce-process",
+    "title": "Can Judicial Separation Be Converted to Divorce Without Filing Again?",
+    "excerpt": "Already have a judicial separation decree? Learn how Section 13(1A) HMA lets either spouse convert it to a full divorce after one year — without re-proving grounds.",
+    "date": "2026-05-01",
+    "thumb": "judicial-separation-converted-to-divorce-thumb.webp"
+  },
+  {
+    "slug": "irretrievable-breakdown-divorce-hindu-law",
+    "subject": "family-law",
+    "topic": "divorce-getting-started",
+    "title": "Irretrievable Breakdown — Can You Divorce Even Without a Listed Ground?",
+    "excerpt": "Your marriage is dead but you cannot prove cruelty or adultery. Learn how courts use irretrievable breakdown and Article 142 to grant divorce in Hindu law.",
+    "date": "2026-05-01",
+    "thumb": "irretrievable-breakdown-divorce-hindu-law-thumb.webp"
+  },
+  {
+    "slug": "court-appointed-guardian-child-property",
+    "subject": "family-law",
+    "topic": "child-custody",
+    "title": "How to Apply for a Court-Appointed Guardian for Your Child's Property",
+    "excerpt": "Learn how to apply for court-appointed guardianship of a minor's property under the Guardians and Wards Act, 1890. Section 7, Section 9, bond, powers, and accounts explained.",
+    "date": "2026-05-01",
+    "thumb": "court-appointed-guardian-child-property-thumb.webp"
+  },
+  {
+    "slug": "grounds-to-remove-guardian-child-hindu-law",
+    "subject": "family-law",
+    "topic": "child-custody",
+    "title": "When Can a Guardian Be Removed? Grounds Under Hindu Law",
+    "excerpt": "Discover the legal grounds to remove a guardian under Hindu law — abuse, neglect, insolvency, moral unfitness — and how to petition the court for the child's welfare.",
+    "date": "2026-05-01",
+    "thumb": "grounds-to-remove-guardian-child-hindu-law-thumb.webp"
+  },
+  {
+    "slug": "widow-adopt-child-alone-after-husband-death",
+    "subject": "family-law",
+    "topic": "adoption",
+    "title": "Can a Widow Adopt a Child on Her Own After Her Husband's Death?",
+    "excerpt": "Yes, a widow can adopt a child on her own under Section 8 HAMA without her husband's consent. Learn the conditions, age rules, and property rights of the adopted child.",
+    "date": "2026-05-01",
+    "thumb": "widow-adopt-child-alone-after-husband-death-thumb.webp"
+  },
+  {
+    "slug": "adopted-child-rights-birth-family-property",
+    "subject": "family-law",
+    "topic": "adoption",
+    "title": "What Happens to an Adopted Child's Rights in the Birth Family?",
+    "excerpt": "Once a child is adopted under Hindu law, all ties with the birth family are legally severed. But two important exceptions survive. Know your rights under Section 12 HAMA.",
+    "date": "2026-05-01",
+    "thumb": "adopted-child-rights-birth-family-property-thumb.webp"
+  },
+  {
+    "slug": "coparcener-challenge-karta-sale-court",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Can a Coparcener Challenge a Sale Made by the Karta in Court?",
+    "excerpt": "Discovered the Karta sold HUF land without legal necessity? Learn your right to challenge the voidable sale, burden of proof, limitation period, and how to recover HUF property.",
+    "date": "2026-05-01",
+    "thumb": "coparcener-challenge-karta-sale-court-thumb.webp"
+  },
+  {
+    "slug": "partial-partition-huf-property-how-it-works",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Partial Partition of HUF — Can You Split Some Property and Keep the Rest Joint?",
+    "excerpt": "Want to divide the family shop but keep the ancestral home joint? Learn how partial partition of HUF works, what the law says, and the risks involved.",
+    "date": "2026-05-01",
+    "thumb": "partial-partition-huf-property-how-it-works-thumb.webp"
+  },
+  {
+    "slug": "reopen-partition-hindu-law-grounds",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Can a Partition Once Done Be Reopened Under Hindu Law?",
+    "excerpt": "Find out when a Hindu family partition can be challenged—fraud, omitted property, minor's rights, absent members. Limitation period and court procedure explained.",
+    "date": "2026-05-01",
+    "thumb": "reopen-partition-hindu-law-grounds-thumb.webp"
+  },
+  {
+    "slug": "minor-coparcener-demand-partition",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Can a Minor Coparcener Demand Partition of HUF Property?",
+    "excerpt": "Can a guardian demand partition of HUF property for a minor child? Know the law, the court's role in protecting the minor's share, and when partition can be reopened.",
+    "date": "2026-05-01",
+    "thumb": "minor-coparcener-demand-partition-thumb.webp"
+  },
+  {
+    "slug": "wife-share-huf-property-partition",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "How Much Does a Wife Get When HUF Property Is Partitioned?",
+    "excerpt": "Not a coparcener but still entitled to a share. Learn exactly how much a wife gets when Hindu joint family property is divided, with examples and your legal rights.",
+    "date": "2026-05-01",
+    "thumb": "wife-share-huf-property-partition-thumb.webp"
+  },
+  {
+    "slug": "karta-mortgage-huf-property-valid-void",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Karta Can Mortgage HUF Property — When Is It Valid and When Is It Void?",
+    "excerpt": "Find out when a Karta's mortgage of HUF property is legally valid and when it is void or voidable. Know your rights as a coparcener to challenge it in court.",
+    "date": "2026-05-01",
+    "thumb": "karta-mortgage-huf-property-valid-void-thumb.webp"
+  },
+  {
+    "slug": "murderer-inherit-victim-hindu-law",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Can a Murderer Inherit From His Victim Under Hindu Law?",
+    "excerpt": "Under Section 25 of the Hindu Succession Act, a murderer is disqualified from inheriting the victim's property. Know your rights as a victim's family member.",
+    "date": "2026-05-01",
+    "thumb": "murderer-inherit-victim-hindu-law-thumb.webp"
+  },
+  {
+    "slug": "widow-remarriage-loses-succession-rights",
+    "subject": "family-law",
+    "topic": "inheritance-rights",
+    "title": "Widow Who Remarries — Does She Lose Rights in Her First Husband's Property?",
+    "excerpt": "If you remarry, do you lose the property you inherited from your first husband? The Hindu Succession Act 1956 has a clear answer. Read what the law says.",
+    "date": "2026-05-01",
+    "thumb": "widow-remarriage-loses-succession-rights-thumb.webp"
+  },
+  {
+    "slug": "property-bought-during-marriage-who-owns",
+    "subject": "family-law",
+    "topic": "divorce-after",
+    "title": "Property Bought During Marriage — Who Actually Owns It?",
+    "excerpt": "Married couples buy flats, cars and savings together — but under Hindu law, who owns what after separation? Learn the contribution principle, Section 27 HMA and how courts decide.",
+    "date": "2026-05-01",
+    "thumb": "property-bought-during-marriage-who-owns-thumb.webp"
+  },
+  {
+    "slug": "wife-right-to-stay-matrimonial-home",
+    "subject": "family-law",
+    "topic": "divorce-after",
+    "title": "Wife's Right to Stay in the Matrimonial Home After Separation",
+    "excerpt": "Your husband or in-laws cannot force you to leave the matrimonial home. Learn about your legal right to stay under Indian law, DV Act, and how to get court protection.",
+    "date": "2026-05-01",
+    "thumb": "wife-right-to-stay-matrimonial-home-thumb.webp"
+  },
+  {
+    "slug": "succession-property-two-countries-which-law",
+    "subject": "family-law",
+    "topic": "divorce-process",
+    "title": "Property in Two Countries — Which Succession Law Applies When a Hindu Dies?",
+    "excerpt": "NRI Hindu family with property in India and abroad? Learn which country's succession law governs each asset — lex situs for land, domicile for movables.",
+    "date": "2026-05-01",
+    "thumb": "succession-property-two-countries-which-law-thumb.webp"
   }
 ]

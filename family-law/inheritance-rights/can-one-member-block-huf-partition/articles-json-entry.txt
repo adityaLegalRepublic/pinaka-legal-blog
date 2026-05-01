@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "can-one-member-block-huf-partition",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Can One Family Member Block the Partition of Joint Property?",
+  "excerpt": "Find out if a coparcener can legally block the partition of joint Hindu family property — and what steps you can take when someone refuses to divide the HUF.",
+  "date": "2026-05-01",
+  "thumb": "can-one-member-block-huf-partition-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/can-one-member-block-huf-partition/
+    index.html            <- rename can-one-member-block-huf-partition.html to this
+    can-one-member-block-huf-partition-thumb.webp
+    header.webp

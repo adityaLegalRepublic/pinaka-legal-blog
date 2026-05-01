@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "visitation-rights-non-custodial-parent",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "Visitation Rights for the Non-Custodial Parent — What Hindu Law Guarantees",
+  "excerpt": "If custody went to the other parent, you still have a legal right to meet your child. Learn what Section 26 HMA guarantees and how courts enforce access orders.",
+  "date": "2026-04-30",
+  "thumb": "visitation-rights-non-custodial-parent-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/visitation-rights-non-custodial-parent/
+    index.html            ← rename visitation-rights-non-custodial-parent.html to this
+    visitation-rights-non-custodial-parent-thumb.webp
+    header.webp

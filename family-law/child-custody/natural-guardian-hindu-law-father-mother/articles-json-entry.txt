@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "natural-guardian-hindu-law-father-mother",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "Natural Guardian Under Hindu Law — Father, Mother, and the Welfare Test",
+  "excerpt": "Who is the natural guardian of your child under Hindu law? Learn how HMGA Section 6 works, what Githa Hariharan decided, and when the welfare test overrides.",
+  "date": "2026-04-30",
+  "thumb": "natural-guardian-hindu-law-father-mother-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/natural-guardian-hindu-law-father-mother/
+    index.html            ← rename natural-guardian-hindu-law-father-mother.html to this
+    natural-guardian-hindu-law-father-mother-thumb.webp
+    header.webp

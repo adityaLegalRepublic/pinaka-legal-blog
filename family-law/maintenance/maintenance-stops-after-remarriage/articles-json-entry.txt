@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "maintenance-stops-after-remarriage",
+  "subject": "family-law",
+  "topic": "maintenance",
+  "title": "Does Maintenance Stop After Remarriage?",
+  "excerpt": "Find out if maintenance stops after remarriage under Hindu law. Section 25 HMA, Section 19 & 21 HAMA, and key court judgments explained in plain language.",
+  "date": "2026-05-01",
+  "thumb": "maintenance-stops-after-remarriage-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/maintenance/maintenance-stops-after-remarriage/
+    index.html            <- rename maintenance-stops-after-remarriage.html to this
+    maintenance-stops-after-remarriage-thumb.webp
+    header.webp

@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "mother-took-child-away-father-rights",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "Mother Took My Child Away — What Can a Father Do Legally?",
+  "excerpt": "Wife took your child and refusing access? Know your rights as a father under Section 6 HMGA, habeas corpus, interim custody, and the welfare of child principle.",
+  "date": "2026-04-30",
+  "thumb": "mother-took-child-away-father-rights-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/mother-took-child-away-father-rights/
+    index.html            <- rename mother-took-child-away-father-rights.html to this
+    mother-took-child-away-father-rights-thumb.webp
+    header.webp

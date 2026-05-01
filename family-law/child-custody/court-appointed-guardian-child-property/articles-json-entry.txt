@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "court-appointed-guardian-child-property",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "How to Apply for a Court-Appointed Guardian for Your Child's Property",
+  "excerpt": "Learn how to apply for court-appointed guardianship of a minor's property under the Guardians and Wards Act, 1890. Section 7, Section 9, bond, powers, and accounts explained.",
+  "date": "2026-05-01",
+  "thumb": "court-appointed-guardian-child-property-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/court-appointed-guardian-child-property/
+    index.html            ← rename court-appointed-guardian-child-property.html to this
+    court-appointed-guardian-child-property-thumb.webp
+    header.webp

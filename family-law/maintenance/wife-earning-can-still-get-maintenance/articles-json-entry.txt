@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "wife-earning-can-still-get-maintenance",
+  "subject": "family-law",
+  "topic": "maintenance",
+  "title": "Wife Is Earning — Can She Still Get Maintenance From Husband?",
+  "excerpt": "Your husband says you earn so he owes you nothing. The law disagrees. Know how Section 24 HMA, Section 23 HAMA and the standard of living test protect working wives.",
+  "date": "2026-04-30",
+  "thumb": "wife-earning-can-still-get-maintenance-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/maintenance/wife-earning-can-still-get-maintenance/
+    index.html            ← rename wife-earning-can-still-get-maintenance.html to this
+    wife-earning-can-still-get-maintenance-thumb.webp
+    header.webp

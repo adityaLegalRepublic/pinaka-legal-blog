@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "what-happens-huf-property-karta-dies",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "What Happens to HUF Property When the Karta Dies?",
+  "excerpt": "When the Karta of your HUF dies, find out who becomes the new Karta, how the property is divided under Section 6 of the Hindu Succession Act, and what the 2005 amendment changed.",
+  "date": "2026-05-01",
+  "thumb": "what-happens-huf-property-karta-dies-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/what-happens-huf-property-karta-dies/
+    index.html            ← rename what-happens-huf-property-karta-dies.html to this
+    what-happens-huf-property-karta-dies-thumb.webp
+    header.webp

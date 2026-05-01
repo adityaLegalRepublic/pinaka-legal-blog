@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "how-to-annul-hindu-marriage-section-12",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Can You Annul a Hindu Marriage? Grounds Under Section 12 HMA",
+  "excerpt": "Your Hindu marriage may be voidable under Section 12 HMA. Learn the four grounds — impotency, unsound mind, fraud, force, and pregnancy — and how to file a nullity petition.",
+  "date": "2026-05-01",
+  "thumb": "how-to-annul-hindu-marriage-section-12-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/how-to-annul-hindu-marriage-section-12/
+    index.html
+    how-to-annul-hindu-marriage-section-12-thumb.webp
+    header.webp

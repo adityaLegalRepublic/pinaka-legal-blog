@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "no-legal-heirs-property-escheat-hindu-law",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "No Legal Heirs at All — What Happens to the Property?",
+  "excerpt": "If a Hindu dies with no Class I, Class II heirs, agnates or cognates, property goes to the government under Section 29. Learn how escheat works and how a will prevents it.",
+  "date": "2026-05-01",
+  "thumb": "no-legal-heirs-property-escheat-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/no-legal-heirs-property-escheat-hindu-law/
+    index.html            ← rename no-legal-heirs-property-escheat-hindu-law.html to this
+    no-legal-heirs-property-escheat-hindu-law-thumb.webp
+    header.webp

@@ -1,0 +1,12 @@
+{
+  "slug": "mutual-consent-divorce-six-month-rule-waiver",
+  "title": "Mutual Consent Divorce: What Is the 6-Month Waiting Rule and When Can It Be Waived?",
+  "excerpt": "Both agreed to end the marriage? Learn how Section 13-B divorce by mutual consent works, what the 6-month waiting rule means, and when courts can waive it.",
+  "thumb": "mutual-consent-divorce-six-month-rule-waiver-thumb.webp",
+  "date": "2026-04-30",
+  "topic": "Divorce - Process",
+  "topicSlug": "divorce-process",
+  "subject": "Family Law",
+  "subjectSlug": "family-law",
+  "url": "https://blog.pinakalegal.com/family-law/divorce-process/mutual-consent-divorce-six-month-rule-waiver/"
+}

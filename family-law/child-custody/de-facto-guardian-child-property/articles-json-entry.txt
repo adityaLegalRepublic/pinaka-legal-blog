@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "de-facto-guardian-child-property",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "De Facto Guardian — Who Can Manage a Child's Property When Parents Are Gone?",
+  "excerpt": "Uncle or grandparent caring for an orphaned child? Learn what a de facto guardian can and cannot do under Section 11 HMGA — and why court permission matters.",
+  "date": "2026-05-01",
+  "thumb": "de-facto-guardian-child-property-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/de-facto-guardian-child-property/
+    index.html            ← de-facto-guardian-child-property.html renamed
+    de-facto-guardian-child-property-thumb.webp
+    header.webp

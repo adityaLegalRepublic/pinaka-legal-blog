@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "streedhan-recovery-after-divorce",
+  "subject": "family-law",
+  "topic": "divorce-after",
+  "title": "How to Recover Your Streedhan After Divorce — The Complete Guide",
+  "excerpt": "Your ornaments and gifts are legally yours. Learn how to recover streedhan after divorce using Section 27 HMA, criminal law, and family court — step by step.",
+  "date": "2026-04-30",
+  "thumb": "streedhan-recovery-after-divorce-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-after/streedhan-recovery-after-divorce/
+    index.html            <- rename streedhan-recovery-after-divorce.html to this
+    streedhan-recovery-after-divorce-thumb.webp
+    header.webp

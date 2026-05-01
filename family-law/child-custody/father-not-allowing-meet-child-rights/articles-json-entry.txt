@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "father-not-allowing-meet-child-rights",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "Father Is Not Allowing Me to Meet My Child — What Are My Rights?",
+  "excerpt": "If the father is not allowing you to meet your child, the law gives you access rights. Learn about HMGA Section 6, interim access orders, and how to approach the court.",
+  "date": "2026-04-30",
+  "thumb": "father-not-allowing-meet-child-rights-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/father-not-allowing-meet-child-rights/
+    index.html            <- rename father-not-allowing-meet-child-rights.html to this
+    father-not-allowing-meet-child-rights-thumb.webp
+    header.webp

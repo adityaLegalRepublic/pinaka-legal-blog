@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "coparcener-challenge-karta-sale-court",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Can a Coparcener Challenge a Sale Made by the Karta in Court?",
+  "excerpt": "Discovered the Karta sold HUF land without legal necessity? Learn your right to challenge the voidable sale, burden of proof, limitation period, and how to recover HUF property.",
+  "date": "2026-05-01",
+  "thumb": "coparcener-challenge-karta-sale-court-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/coparcener-challenge-karta-sale-court/
+    index.html            ← already named index.html
+    coparcener-challenge-karta-sale-court-thumb.webp
+    header.webp

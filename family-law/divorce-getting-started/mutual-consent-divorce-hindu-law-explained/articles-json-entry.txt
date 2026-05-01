@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "mutual-consent-divorce-hindu-law-explained",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Mutual Consent Divorce in India: How Section 13B Works When Both Spouses Agree",
+  "excerpt": "Filing for mutual consent divorce in India? Section 13B HMA explained — one year of separation, joint petition, two motions, six-month rule, plain English.",
+  "date": "2026-04-30",
+  "thumb": "mutual-consent-divorce-hindu-law-explained-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/mutual-consent-divorce-hindu-law-explained/
+    index.html
+    mutual-consent-divorce-hindu-law-explained-thumb.webp
+    header.webp

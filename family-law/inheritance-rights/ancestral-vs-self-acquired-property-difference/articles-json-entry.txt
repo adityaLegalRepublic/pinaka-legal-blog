@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "ancestral-vs-self-acquired-property-difference",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Ancestral Property vs Self-Acquired Property — The Difference That Decides Everything",
+  "excerpt": "Is your family home ancestral or self-acquired? This one difference decides who has a right to it. Learn the 4-generation rule, Mitakshara coparcenary, and key Supreme Court rulings.",
+  "date": "2026-04-30",
+  "thumb": "ancestral-vs-self-acquired-property-difference-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/ancestral-vs-self-acquired-property-difference/
+    index.html            <- rename ancestral-vs-self-acquired-property-difference.html to this
+    ancestral-vs-self-acquired-property-difference-thumb.webp
+    header.webp

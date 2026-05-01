@@ -1,0 +1,12 @@
+{
+  "slug": "modification-of-alimony-hindu-law",
+  "title": "Alimony Already Decided — Can the Amount Be Increased or Reduced Later?",
+  "excerpt": "Alimony amounts can be revised under Section 25(2) HMA if circumstances change. Learn how courts modify, reduce, or stop alimony after divorce.",
+  "thumb": "modification-of-alimony-hindu-law-thumb.webp",
+  "date": "2026-04-30",
+  "topic": "Divorce - After",
+  "topicSlug": "divorce-after",
+  "subject": "Family Law",
+  "subjectSlug": "family-law",
+  "url": "https://blog.pinakalegal.com/family-law/divorce-after/modification-of-alimony-hindu-law/"
+}

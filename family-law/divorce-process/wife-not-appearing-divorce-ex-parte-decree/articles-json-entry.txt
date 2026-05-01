@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "wife-not-appearing-divorce-ex-parte-decree",
+  "subject": "family-law",
+  "topic": "divorce-process",
+  "title": "Wife Not Appearing in Divorce Case — Can You Get an Ex Parte Decree?",
+  "excerpt": "If your wife is not appearing in your divorce case, the court can proceed ex parte. Learn how ex parte divorce works, when it can be set aside, and your rights under the Hindu Marriage Act.",
+  "date": "2026-05-01",
+  "thumb": "wife-not-appearing-divorce-ex-parte-decree-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-process/wife-not-appearing-divorce-ex-parte-decree/
+    index.html            ← rename wife-not-appearing-divorce-ex-parte-decree.html to this
+    wife-not-appearing-divorce-ex-parte-decree-thumb.webp
+    header.webp

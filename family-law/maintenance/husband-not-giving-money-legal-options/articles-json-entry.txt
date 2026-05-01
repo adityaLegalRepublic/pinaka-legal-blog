@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "husband-not-giving-money-legal-options",
+  "subject": "family-law",
+  "topic": "maintenance",
+  "title": "Husband Not Giving Money — Your Legal Options Under Hindu Law",
+  "excerpt": "Husband stopped giving money? Know your rights under Section 18 HAMA and Section 24 HMA — get interim maintenance fast, without filing for divorce.",
+  "date": "2026-04-30",
+  "thumb": "husband-not-giving-money-legal-options-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/maintenance/husband-not-giving-money-legal-options/
+    index.html            <- rename husband-not-giving-money-legal-options.html to this
+    husband-not-giving-money-legal-options-thumb.webp
+    header.webp

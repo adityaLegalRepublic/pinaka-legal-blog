@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "desertion-divorce-spouse-left-two-years-ago",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Spouse Left Me Two Years Ago — Can I Get Divorce on Desertion Under Hindu Law?",
+  "excerpt": "Spouse abandoned you 2+ years ago? Section 13(1)(ib) HMA lets you file for divorce on desertion. Learn what to prove, defences, and how the 2-year clock works.",
+  "date": "2026-04-30",
+  "thumb": "desertion-divorce-spouse-left-two-years-ago-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/desertion-divorce-spouse-left-two-years-ago/
+    index.html
+    desertion-divorce-spouse-left-two-years-ago-thumb.webp
+    header.webp

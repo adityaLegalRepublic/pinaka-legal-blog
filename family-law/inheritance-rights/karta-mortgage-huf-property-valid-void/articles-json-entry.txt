@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "karta-mortgage-huf-property-valid-void",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Karta Can Mortgage HUF Property — When Is It Valid and When Is It Void?",
+  "excerpt": "Find out when a Karta's mortgage of HUF property is legally valid and when it is void or voidable. Know your rights as a coparcener to challenge it in court.",
+  "date": "2026-05-01",
+  "thumb": "karta-mortgage-huf-property-valid-void-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/karta-mortgage-huf-property-valid-void/
+    index.html
+    karta-mortgage-huf-property-valid-void-thumb.webp
+    header.webp

@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "hindu-gift-of-property-rules-limits",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Can a Hindu Make a Gift of Property to Anyone? Rules and Limits",
+  "excerpt": "Want to gift property to your child or relative? Know the Hindu law rules — self-acquired vs coparcenary property, gift deed steps, Karta limits, and what makes a gift invalid.",
+  "date": "2026-05-01",
+  "thumb": "hindu-gift-of-property-rules-limits-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/hindu-gift-of-property-rules-limits/
+    index.html
+    hindu-gift-of-property-rules-limits-thumb.webp
+    header.webp

@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "protect-minor-child-inherited-property",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "How to Protect Your Minor Child's Inherited Property After Your Death",
+  "excerpt": "Worried your child's inherited property may be mismanaged after your death? Learn how Section 8 HMGA, testamentary guardianship, and court supervision protect your minor child's assets.",
+  "date": "2026-05-01",
+  "thumb": "protect-minor-child-inherited-property-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/protect-minor-child-inherited-property/
+    index.html            <- rename from index.html (already named correctly)
+    protect-minor-child-inherited-property-thumb.webp
+    header.webp

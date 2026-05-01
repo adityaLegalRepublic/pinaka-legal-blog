@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "widow-adopt-child-alone-after-husband-death",
+  "subject": "family-law",
+  "topic": "adoption",
+  "title": "Can a Widow Adopt a Child on Her Own After Her Husband's Death?",
+  "excerpt": "Yes, a widow can adopt a child on her own under Section 8 HAMA without her husband's consent. Learn the conditions, age rules, and property rights of the adopted child.",
+  "date": "2026-05-01",
+  "thumb": "widow-adopt-child-alone-after-husband-death-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/adoption/widow-adopt-child-alone-after-husband-death/
+    index.html            <- rename widow-adopt-child-alone-after-husband-death.html to this
+    widow-adopt-child-alone-after-husband-death-thumb.webp
+    header.webp

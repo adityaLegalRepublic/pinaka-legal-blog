@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "wife-right-to-stay-matrimonial-home",
+  "subject": "family-law",
+  "topic": "divorce-after",
+  "title": "Wife's Right to Stay in the Matrimonial Home After Separation",
+  "excerpt": "Your husband or in-laws cannot force you to leave the matrimonial home. Learn about your legal right to stay under Indian law, DV Act, and how to get court protection.",
+  "date": "2026-05-01",
+  "thumb": "wife-right-to-stay-matrimonial-home-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-after/wife-right-to-stay-matrimonial-home/
+    index.html            <- rename wife-right-to-stay-matrimonial-home.html to this
+    wife-right-to-stay-matrimonial-home-thumb.webp
+    header.webp

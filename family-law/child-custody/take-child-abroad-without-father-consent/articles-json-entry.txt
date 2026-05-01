@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "take-child-abroad-without-father-consent",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "Can I Take My Child Abroad Without the Father's Consent?",
+  "excerpt": "Can a mother take her child abroad without the father's consent? Learn what Indian law says under HMGA Section 6 and Section 13, and when court permission is needed.",
+  "date": "2026-05-01",
+  "thumb": "take-child-abroad-without-father-consent-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/take-child-abroad-without-father-consent/
+    index.html            <- rename from take-child-abroad-without-father-consent.html
+    take-child-abroad-without-father-consent-thumb.webp
+    header.webp

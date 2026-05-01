@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "mental-illness-ground-for-divorce",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Mental Illness as a Ground for Divorce — What You Need to Prove",
+  "excerpt": "Can you divorce a spouse with mental illness in India? Learn what Section 13(1)(iii) HMA requires — degree, duration, medical proof, and what courts have held.",
+  "date": "2026-05-01",
+  "thumb": "mental-illness-ground-for-divorce-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/mental-illness-ground-for-divorce/
+    index.html            ← rename mental-illness-ground-for-divorce.html to this
+    mental-illness-ground-for-divorce-thumb.webp
+    header.webp

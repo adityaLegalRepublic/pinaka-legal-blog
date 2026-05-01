@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "divorce-wife-cheating-adultery-proof",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "My Wife Is Cheating — What Do I Need to Prove to Get Divorce?",
+  "excerpt": "Husband suspects wife of cheating? Learn exactly what evidence courts accept to grant divorce on adultery grounds under HMA Section 13(1)(i). Know the proof standard.",
+  "date": "2026-04-30",
+  "thumb": "divorce-wife-cheating-adultery-proof-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/divorce-wife-cheating-adultery-proof/
+    index.html            <- rename divorce-wife-cheating-adultery-proof.html to this
+    divorce-wife-cheating-adultery-proof-thumb.webp
+    header.webp

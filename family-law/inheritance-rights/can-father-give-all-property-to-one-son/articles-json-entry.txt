@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "can-father-give-all-property-to-one-son",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Can a Father Give All His Property to Only One Son?",
+  "excerpt": "Under Hindu law, a father can freely give self-acquired property to one son but cannot gift away ancestral/coparcenary property. Know your rights under HSA 1956.",
+  "date": "2026-05-01",
+  "thumb": "can-father-give-all-property-to-one-son-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/can-father-give-all-property-to-one-son/
+    index.html            ← rename can-father-give-all-property-to-one-son.html to this
+    can-father-give-all-property-to-one-son-thumb.webp
+    header.webp

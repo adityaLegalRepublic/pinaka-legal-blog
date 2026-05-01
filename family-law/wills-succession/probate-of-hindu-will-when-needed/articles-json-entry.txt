@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "probate-of-hindu-will-when-needed",
+  "subject": "family-law",
+  "topic": "wills-succession",
+  "title": "Probate of a Hindu Will — When You Need It and How to Get It",
+  "excerpt": "Learn when probate of a Hindu will is legally required in India, which cities make it mandatory, and the step-by-step process to obtain it from a court.",
+  "date": "2026-04-30",
+  "thumb": "probate-of-hindu-will-when-needed-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/wills-succession/probate-of-hindu-will-when-needed/
+    index.html            ← rename probate-of-hindu-will-when-needed.html to this
+    probate-of-hindu-will-when-needed-thumb.webp
+    header.webp

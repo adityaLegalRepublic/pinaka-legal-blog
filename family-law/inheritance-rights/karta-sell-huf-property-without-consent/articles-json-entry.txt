@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "karta-sell-huf-property-without-consent",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "When Can the Karta Sell HUF Property Without Everyone's Permission?",
+  "excerpt": "Karta can sell HUF property without every member's consent in three situations: legal necessity, benefit of estate, or antecedent debt. Know your rights.",
+  "date": "2026-05-01",
+  "thumb": "karta-sell-huf-property-without-consent-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/karta-sell-huf-property-without-consent/
+    index.html            <- rename karta-sell-huf-property-without-consent.html to this
+    karta-sell-huf-property-without-consent-thumb.webp
+    header.webp

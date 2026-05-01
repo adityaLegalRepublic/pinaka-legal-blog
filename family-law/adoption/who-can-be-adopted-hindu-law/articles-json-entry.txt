@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "who-can-be-adopted-hindu-law",
+  "subject": "family-law",
+  "topic": "adoption",
+  "title": "Who Can Be Adopted Under Hindu Law — Age, Religion, and the Existing Child Rule",
+  "excerpt": "Under Hindu law, a child must be Hindu, under 15, unmarried, and not already adopted. Learn the Section 10 rules and the existing child bar under Section 11 of HAMA.",
+  "date": "2026-04-30",
+  "thumb": "who-can-be-adopted-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/adoption/who-can-be-adopted-hindu-law/
+    index.html            <- rename who-can-be-adopted-hindu-law.html to this
+    who-can-be-adopted-hindu-law-thumb.webp
+    header.webp

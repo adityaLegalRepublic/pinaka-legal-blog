@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "who-can-adopt-child-hindu-law",
+  "subject": "family-law",
+  "topic": "adoption",
+  "title": "Who Can Legally Adopt a Child Under Hindu Law — Complete Eligibility Checklist",
+  "excerpt": "Find out who can legally adopt a child under Hindu law. Full eligibility checklist covering HAMA Sections 7 and 8 — male, female, married, single, divorced.",
+  "date": "2026-04-30",
+  "thumb": "who-can-adopt-child-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/adoption/who-can-adopt-child-hindu-law/
+    index.html            <- rename who-can-adopt-child-hindu-law.html to this
+    who-can-adopt-child-hindu-law-thumb.webp
+    header.webp

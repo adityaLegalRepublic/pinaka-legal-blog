@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "wife-claim-share-husband-business-divorce",
+  "subject": "family-law",
+  "topic": "divorce-after",
+  "title": "Can a Wife Claim a Share in Her Husband's Business After Divorce?",
+  "excerpt": "After divorce under Hindu law, can a wife claim a share in the husband's business? Know your rights under Section 25 HMA, Section 27, and permanent alimony.",
+  "date": "2026-05-01",
+  "thumb": "wife-claim-share-husband-business-divorce-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-after/wife-claim-share-husband-business-divorce/
+    index.html
+    wife-claim-share-husband-business-divorce-thumb.webp
+    header.webp

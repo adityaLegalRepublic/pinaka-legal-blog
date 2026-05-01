@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "murderer-inherit-victim-hindu-law",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Can a Murderer Inherit From His Victim Under Hindu Law?",
+  "excerpt": "Under Section 25 of the Hindu Succession Act, a murderer is disqualified from inheriting the victim's property. Know your rights as a victim's family member.",
+  "date": "2026-05-01",
+  "thumb": "murderer-inherit-victim-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/murderer-inherit-victim-hindu-law/
+    index.html            <- rename index.html (already named correctly)
+    murderer-inherit-victim-hindu-law-thumb.webp
+    header.webp

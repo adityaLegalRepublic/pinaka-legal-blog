@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "cruelty-as-ground-for-divorce-hindu-law",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Cruelty as a Ground for Divorce: What Actually Counts in Court",
+  "excerpt": "Cruelty as ground for divorce under Hindu Marriage Act: physical, mental cruelty examples, leading cases, what counts, what doesn't, how to prove.",
+  "date": "2026-04-30",
+  "thumb": "cruelty-as-ground-for-divorce-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/cruelty-as-ground-for-divorce-hindu-law/
+    index.html
+    cruelty-as-ground-for-divorce-hindu-law-thumb.webp
+    header.webp

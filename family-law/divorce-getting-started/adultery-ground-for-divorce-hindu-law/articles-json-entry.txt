@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "adultery-ground-for-divorce-hindu-law",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Adultery as a Ground for Divorce — What You Actually Need to Prove",
+  "excerpt": "Suspect your spouse is having an affair? Understand Section 13(1)(i) HMA, what counts as adultery, the evidence courts accept, and the proof standard you need.",
+  "date": "2026-04-30",
+  "thumb": "adultery-ground-for-divorce-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/adultery-ground-for-divorce-hindu-law/
+    index.html
+    adultery-ground-for-divorce-hindu-law-thumb.webp
+    header.webp

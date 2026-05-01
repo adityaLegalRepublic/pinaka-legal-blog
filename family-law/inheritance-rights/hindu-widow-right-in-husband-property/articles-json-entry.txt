@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "hindu-widow-right-in-husband-property",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Hindu Widow's Right in Her Husband's Property — The Full Picture",
+  "excerpt": "A Hindu widow's full rights in her husband's property — Class I heir status, equal share calculation, Section 14 HSA absolute estate, and the Tulasamma ruling explained simply.",
+  "date": "2026-04-30",
+  "thumb": "hindu-widow-right-in-husband-property-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/hindu-widow-right-in-husband-property/
+    index.html            <- rename hindu-widow-right-in-husband-property.html to this
+    hindu-widow-right-in-husband-property-thumb.webp
+    header.webp

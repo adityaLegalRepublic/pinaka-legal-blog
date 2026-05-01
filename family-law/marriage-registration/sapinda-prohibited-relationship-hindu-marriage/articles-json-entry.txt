@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "sapinda-prohibited-relationship-hindu-marriage",
+  "subject": "family-law",
+  "topic": "marriage-registration",
+  "title": "Sapinda and Prohibited Relationship: Who You Cannot Marry Under Hindu Law",
+  "excerpt": "A plain-language guide to Sec 5(iv) and 5(v) of the Hindu Marriage Act 1955—who is sapinda, who is within prohibited degrees, and when custom can save the marriage.",
+  "date": "2026-04-29",
+  "thumb": "sapinda-prohibited-relationship-hindu-marriage-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/marriage-registration/sapinda-prohibited-relationship-hindu-marriage/
+    index.html
+    sapinda-prohibited-relationship-hindu-marriage-thumb.webp
+    header.webp

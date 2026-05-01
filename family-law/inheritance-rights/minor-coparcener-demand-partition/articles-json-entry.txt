@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "minor-coparcener-demand-partition",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Can a Minor Coparcener Demand Partition of HUF Property?",
+  "excerpt": "Can a guardian demand partition of HUF property for a minor child? Know the law, the court's role in protecting the minor's share, and when partition can be reopened.",
+  "date": "2026-05-01",
+  "thumb": "minor-coparcener-demand-partition-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/minor-coparcener-demand-partition/
+    index.html
+    minor-coparcener-demand-partition-thumb.webp
+    header.webp

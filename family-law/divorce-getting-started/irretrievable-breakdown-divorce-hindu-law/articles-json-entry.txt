@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "irretrievable-breakdown-divorce-hindu-law",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Irretrievable Breakdown — Can You Divorce Even Without a Listed Ground?",
+  "excerpt": "Your marriage is dead but you cannot prove cruelty or adultery. Learn how courts use irretrievable breakdown and Article 142 to grant divorce in Hindu law.",
+  "date": "2026-05-01",
+  "thumb": "irretrievable-breakdown-divorce-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/irretrievable-breakdown-divorce-hindu-law/
+    index.html            <- rename irretrievable-breakdown-divorce-hindu-law.html to this
+    irretrievable-breakdown-divorce-hindu-law-thumb.webp
+    header.webp

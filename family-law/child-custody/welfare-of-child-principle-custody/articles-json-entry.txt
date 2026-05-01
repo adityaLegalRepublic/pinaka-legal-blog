@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "welfare-of-child-principle-custody",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "Welfare of Child Principle — How Court Actually Decides Custody Under Hindu Law",
+  "excerpt": "Section 13 HMGA makes the child's welfare paramount in every custody case. Learn the real factors courts use — financial, emotional, age, wishes — and key Supreme Court rulings.",
+  "date": "2026-04-30",
+  "thumb": "welfare-of-child-principle-custody-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/welfare-of-child-principle-custody/
+    index.html            <- rename welfare-of-child-principle-custody.html to this
+    welfare-of-child-principle-custody-thumb.webp
+    header.webp

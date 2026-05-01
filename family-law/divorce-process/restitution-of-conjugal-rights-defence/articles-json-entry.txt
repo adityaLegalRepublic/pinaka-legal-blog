@@ -1,0 +1,12 @@
+{
+  "slug": "restitution-of-conjugal-rights-defence",
+  "title": "Spouse Filed Restitution of Conjugal Rights Against Me — What to Do",
+  "excerpt": "A restitution of conjugal rights petition under Section 9 HMA — what it means, your legal defences, and what happens if a decree is passed against you.",
+  "thumb": "restitution-of-conjugal-rights-defence-thumb.webp",
+  "date": "2026-04-30",
+  "topic": "Divorce - Process",
+  "topicSlug": "divorce-process",
+  "subject": "Family Law",
+  "subjectSlug": "family-law",
+  "url": "https://blog.pinakalegal.com/family-law/divorce-process/restitution-of-conjugal-rights-defence/"
+}

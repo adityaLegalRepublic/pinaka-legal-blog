@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "housewife-maintenance-working-part-time",
+  "subject": "family-law",
+  "topic": "maintenance",
+  "title": "Can a Housewife Claim Maintenance If She Works Part-Time?",
+  "excerpt": "Yes — a part-time income does not bar maintenance under Section 24 HMA or HAMA. Courts look at whether your income is 'sufficient.' Know your rights.",
+  "date": "2026-04-30",
+  "thumb": "housewife-maintenance-working-part-time-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/maintenance/housewife-maintenance-working-part-time/
+    index.html            ← rename housewife-maintenance-working-part-time.html to this
+    housewife-maintenance-working-part-time-thumb.webp
+    header.webp

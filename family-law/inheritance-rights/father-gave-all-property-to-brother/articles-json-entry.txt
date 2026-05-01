@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "father-gave-all-property-to-brother",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Father Gave All Property to My Brother — Can I Challenge It?",
+  "excerpt": "Your father gave everything to your brother by gift or will. Does the law protect your share? Know your rights under Hindu Succession Act and when to challenge.",
+  "date": "2026-05-01",
+  "thumb": "father-gave-all-property-to-brother-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/father-gave-all-property-to-brother/
+    index.html            ← rename father-gave-all-property-to-brother.html to this
+    father-gave-all-property-to-brother-thumb.webp
+    header.webp

@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "when-wife-loses-right-to-maintenance",
+  "subject": "family-law",
+  "topic": "maintenance",
+  "title": "When Does a Wife Lose Her Right to Maintenance?",
+  "excerpt": "A wife can lose maintenance under Section 18(3) HAMA if she is unchaste or converts from Hinduism. Learn all grounds, real cases, and what courts have decided.",
+  "date": "2026-05-01",
+  "thumb": "when-wife-loses-right-to-maintenance-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/maintenance/when-wife-loses-right-to-maintenance/
+    index.html            <- rename when-wife-loses-right-to-maintenance.html to this
+    when-wife-loses-right-to-maintenance-thumb.webp
+    header.webp

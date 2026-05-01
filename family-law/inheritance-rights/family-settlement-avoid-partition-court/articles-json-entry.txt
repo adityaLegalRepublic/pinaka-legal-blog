@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "family-settlement-avoid-partition-court",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Family Settlement Agreement — How to Use It to Avoid a Court Battle",
+  "excerpt": "Learn how a family settlement agreement can divide inherited property without going to court. Key requirements, registration rules, and stamp duty explained.",
+  "date": "2026-05-01",
+  "thumb": "family-settlement-avoid-partition-court-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/family-settlement-avoid-partition-court/
+    index.html            <- rename family-settlement-avoid-partition-court.html to this (already done)
+    family-settlement-avoid-partition-court-thumb.webp
+    header.webp

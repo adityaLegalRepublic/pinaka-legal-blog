@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "stridhana-complete-list-wifes-property",
+  "subject": "family-law",
+  "topic": "divorce-after",
+  "title": "What Exactly is Stridhana? A Complete List of What Belongs Only to the Wife",
+  "excerpt": "Stridhana is the wife's absolute property under Hindu law. This guide lists every category — gifts, ornaments, inherited property — and explains your rights under Section 14 HSA.",
+  "date": "2026-05-01",
+  "thumb": "stridhana-complete-list-wifes-property-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-after/stridhana-complete-list-wifes-property/
+    index.html            <- rename stridhana-complete-list-wifes-property.html to this
+    stridhana-complete-list-wifes-property-thumb.webp
+    header.webp

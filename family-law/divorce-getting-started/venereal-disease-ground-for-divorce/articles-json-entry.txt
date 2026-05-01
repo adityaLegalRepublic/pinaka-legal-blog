@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "venereal-disease-ground-for-divorce",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Spouse Has a Venereal Disease — Is That Ground for Divorce?",
+  "excerpt": "Your spouse has a venereal disease and you want to know if you can divorce them. Section 13(1)(v) HMA explains exactly what the law requires and how to prove it.",
+  "date": "2026-05-01",
+  "thumb": "venereal-disease-ground-for-divorce-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/venereal-disease-ground-for-divorce/
+    index.html
+    venereal-disease-ground-for-divorce-thumb.webp
+    header.webp

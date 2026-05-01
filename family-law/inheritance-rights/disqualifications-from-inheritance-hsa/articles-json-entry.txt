@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "disqualifications-from-inheritance-hsa",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Disqualifications From Inheritance — When You Lose Your Share Under Hindu Law",
+  "excerpt": "Find out when a person loses the right to inherit under Hindu law — murder, conversion, disease — and what happens to their share. HSA Sections 25–28 explained.",
+  "date": "2026-04-30",
+  "thumb": "disqualifications-from-inheritance-hsa-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/disqualifications-from-inheritance-hsa/
+    index.html            <- rename disqualifications-from-inheritance-hsa.html to this
+    disqualifications-from-inheritance-hsa-thumb.webp
+    header.webp

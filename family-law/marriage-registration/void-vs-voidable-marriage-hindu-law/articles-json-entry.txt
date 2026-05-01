@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "void-vs-voidable-marriage-hindu-law",
+  "subject": "family-law",
+  "topic": "marriage-registration",
+  "title": "Void vs Voidable Marriage Under Hindu Law: The Difference That Decides Your Rights",
+  "excerpt": "Whether your Hindu marriage is void or voidable changes everything—maintenance, remarriage, your child's status. A plain-language guide to Sec 11 and 12 HMA.",
+  "date": "2026-04-29",
+  "thumb": "void-vs-voidable-marriage-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/marriage-registration/void-vs-voidable-marriage-hindu-law/
+    index.html
+    void-vs-voidable-marriage-hindu-law-thumb.webp
+    header.webp

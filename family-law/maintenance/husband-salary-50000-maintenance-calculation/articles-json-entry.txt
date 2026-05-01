@@ -1,0 +1,19 @@
+Paste this object into articles.json:
+
+{
+  "slug": "husband-salary-50000-maintenance-calculation",
+  "subject": "family-law",
+  "topic": "maintenance",
+  "title": "Husband Earns ₹50,000 — How Much Maintenance Will Court Order?",
+  "description": "If your husband earns ₹50,000 a month, courts typically order ₹8,000–₹18,000 as maintenance. See the full worked calculation, key factors, and real case examples.",
+  "thumb": "husband-salary-50000-maintenance-calculation-thumb.webp",
+  "url": "https://blog.pinakalegal.com/family-law/maintenance/husband-salary-50000-maintenance-calculation/",
+  "date": "2026-04-30"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/maintenance/husband-salary-50000-maintenance-calculation/
+    index.html            ← rename husband-salary-50000-maintenance-calculation.html to this
+    husband-salary-50000-maintenance-calculation-thumb.webp
+    header.webp

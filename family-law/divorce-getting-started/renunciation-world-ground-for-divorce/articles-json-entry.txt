@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "renunciation-world-ground-for-divorce",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Spouse Became a Sanyasi — Can You Get Divorced for Renunciation of the World?",
+  "excerpt": "If your spouse has renounced the world and joined a religious order, you can file for divorce under Section 13(1)(vi) of the Hindu Marriage Act. Know what counts as valid renunciation, proof needed, and your rights.",
+  "date": "2026-05-01",
+  "thumb": "renunciation-world-ground-for-divorce-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/renunciation-world-ground-for-divorce/
+    index.html            <- rename renunciation-world-ground-for-divorce.html to this
+    renunciation-world-ground-for-divorce-thumb.webp
+    header.webp

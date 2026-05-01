@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "hindu-marriage-without-registration-still-valid",
+  "subject": "family-law",
+  "topic": "marriage-registration",
+  "title": "Got Married But Have No Registration Certificate — Is My Marriage Valid?",
+  "excerpt": "Got married but never got a certificate? Hindu law treats your marriage as fully valid even without registration. Here is what Section 8 actually says.",
+  "date": "2026-04-29",
+  "thumb": "hindu-marriage-without-registration-still-valid-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/marriage-registration/hindu-marriage-without-registration-still-valid/
+    index.html
+    hindu-marriage-without-registration-still-valid-thumb.webp
+    header.webp

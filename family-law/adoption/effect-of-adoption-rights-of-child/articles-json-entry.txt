@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "effect-of-adoption-rights-of-child",
+  "subject": "family-law",
+  "topic": "adoption",
+  "title": "What Adoption Legally Changes — Rights of the Adopted Child",
+  "excerpt": "When a child is adopted under Hindu law, ties with the birth family are severed and new rights arise. Learn what Section 12 HAMA changes — inheritance, marriage, and more.",
+  "date": "2026-04-30",
+  "thumb": "effect-of-adoption-rights-of-child-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/adoption/effect-of-adoption-rights-of-child/
+    index.html            <- rename effect-of-adoption-rights-of-child.html to this
+    effect-of-adoption-rights-of-child-thumb.webp
+    header.webp

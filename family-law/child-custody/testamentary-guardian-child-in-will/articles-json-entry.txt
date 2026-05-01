@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "testamentary-guardian-child-in-will",
+  "subject": "family-law",
+  "topic": "child-custody",
+  "title": "Testamentary Guardian — How to Legally Name a Guardian for Your Child in Your Will",
+  "excerpt": "Can you legally name a guardian for your child in your will? Learn how HMGA Section 9 works, who can appoint, and what happens if both parents die.",
+  "date": "2026-04-30",
+  "thumb": "testamentary-guardian-child-in-will-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/child-custody/testamentary-guardian-child-in-will/
+    index.html            ← rename testamentary-guardian-child-in-will.html to this
+    testamentary-guardian-child-in-will-thumb.webp
+    header.webp

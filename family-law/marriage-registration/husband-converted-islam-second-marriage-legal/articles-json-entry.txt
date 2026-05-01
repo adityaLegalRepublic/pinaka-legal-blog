@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "husband-converted-islam-second-marriage-legal",
+  "subject": "family-law",
+  "topic": "marriage-registration",
+  "title": "Husband Converted to Islam to Take a Second Wife — What Are My Rights?",
+  "excerpt": "If your husband converted to Islam and remarried, the second marriage is void under Indian law. Know your rights under HMA and IPC Section 494.",
+  "date": "2026-05-01",
+  "thumb": "husband-converted-islam-second-marriage-legal-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/marriage-registration/husband-converted-islam-second-marriage-legal/
+    index.html            ← rename husband-converted-islam-second-marriage-legal.html to this
+    husband-converted-islam-second-marriage-legal-thumb.webp
+    header.webp

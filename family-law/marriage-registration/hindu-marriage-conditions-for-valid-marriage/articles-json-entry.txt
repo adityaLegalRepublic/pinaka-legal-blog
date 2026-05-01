@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "hindu-marriage-conditions-for-valid-marriage",
+  "subject": "family-law",
+  "topic": "marriage-registration",
+  "title": "Is Our Marriage Legally Valid? The 5 Conditions Hindu Law Demands",
+  "excerpt": "Wondering if your Hindu marriage is legally valid? Plain-English guide to the 5 Section 5 HMA conditions — and what happens if any one is broken.",
+  "date": "2026-04-29",
+  "thumb": "hindu-marriage-conditions-for-valid-marriage-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/marriage-registration/hindu-marriage-conditions-for-valid-marriage/
+    index.html
+    hindu-marriage-conditions-for-valid-marriage-thumb.webp
+    header.webp

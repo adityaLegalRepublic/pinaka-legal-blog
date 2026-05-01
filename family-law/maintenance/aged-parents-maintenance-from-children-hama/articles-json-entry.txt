@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "aged-parents-maintenance-from-children-hama",
+  "subject": "family-law",
+  "topic": "maintenance",
+  "title": "Aged Parents' Right to Maintenance From Their Children Under Hindu Law",
+  "excerpt": "Your child ignores you financially? Under HAMA Section 20 and the Senior Citizens Act, aged parents have a clear legal right to claim maintenance. Know your options.",
+  "date": "2026-04-30",
+  "thumb": "aged-parents-maintenance-from-children-hama-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/maintenance/aged-parents-maintenance-from-children-hama/
+    index.html            ← rename aged-parents-maintenance-from-children-hama.html to this
+    aged-parents-maintenance-from-children-hama-thumb.webp
+    header.webp

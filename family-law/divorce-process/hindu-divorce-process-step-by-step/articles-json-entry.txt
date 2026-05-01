@@ -1,0 +1,12 @@
+{
+  "slug": "hindu-divorce-process-step-by-step",
+  "title": "Hindu Divorce Step-by-Step: From Filing the Petition to Final Decree",
+  "excerpt": "Want to file for Hindu divorce but unsure what happens next? Every step — petition filing to final decree — explained in plain English, grounded in the Hindu Marriage Act.",
+  "thumb": "hindu-divorce-process-step-by-step-thumb.webp",
+  "date": "2026-04-30",
+  "topic": "Divorce - Process",
+  "topicSlug": "divorce-process",
+  "subject": "Family Law",
+  "subjectSlug": "family-law",
+  "url": "https://blog.pinakalegal.com/family-law/divorce-process/hindu-divorce-process-step-by-step/"
+}

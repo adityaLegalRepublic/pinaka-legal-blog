@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "half-blood-vs-full-blood-inheritance",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Half-Blood vs Full-Blood Relatives — Do They Inherit Equally?",
+  "excerpt": "Does your half-sibling inherit equally from your parent? Indian law says full-blood relatives are preferred. Know your rights under Section 18 of the Hindu Succession Act.",
+  "date": "2026-05-01",
+  "thumb": "half-blood-vs-full-blood-inheritance-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/half-blood-vs-full-blood-inheritance/
+    index.html            <- rename half-blood-vs-full-blood-inheritance.html to this
+    half-blood-vs-full-blood-inheritance-thumb.webp
+    header.webp

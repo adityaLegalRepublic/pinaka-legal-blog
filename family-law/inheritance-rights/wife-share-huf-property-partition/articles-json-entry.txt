@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "wife-share-huf-property-partition",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "How Much Does a Wife Get When HUF Property Is Partitioned?",
+  "excerpt": "Not a coparcener but still entitled to a share. Learn exactly how much a wife gets when Hindu joint family property is divided, with examples and your legal rights.",
+  "date": "2026-05-01",
+  "thumb": "wife-share-huf-property-partition-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/wife-share-huf-property-partition/
+    index.html            <- rename wife-share-huf-property-partition.html to this
+    wife-share-huf-property-partition-thumb.webp
+    header.webp

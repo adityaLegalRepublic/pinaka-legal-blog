@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "unmarried-daughter-maintenance-from-father",
+  "subject": "family-law",
+  "topic": "maintenance",
+  "title": "Unmarried Daughter's Right to Maintenance From Father Under Hindu Law",
+  "excerpt": "Under HAMA Section 20(3), an unmarried daughter can claim maintenance from her father even after turning 18 — until she marries or earns enough. Know your rights.",
+  "date": "2026-04-30",
+  "thumb": "unmarried-daughter-maintenance-from-father-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/maintenance/unmarried-daughter-maintenance-from-father/
+    index.html            <- rename unmarried-daughter-maintenance-from-father.html to this
+    unmarried-daughter-maintenance-from-father-thumb.webp
+    header.webp

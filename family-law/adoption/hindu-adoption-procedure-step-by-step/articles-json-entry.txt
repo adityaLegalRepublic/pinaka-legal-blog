@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "hindu-adoption-procedure-step-by-step",
+  "subject": "family-law",
+  "topic": "adoption",
+  "title": "Hindu Adoption Procedure — From Decision to Legally Recognised Adoption",
+  "excerpt": "Planning to adopt a child under Hindu law? Learn the exact legal steps — from eligibility to the giving and taking ceremony — as required by HAMA 1956.",
+  "date": "2026-04-30",
+  "thumb": "hindu-adoption-procedure-step-by-step-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/adoption/hindu-adoption-procedure-step-by-step/
+    index.html            ← rename hindu-adoption-procedure-step-by-step.html to this
+    hindu-adoption-procedure-step-by-step-thumb.webp
+    header.webp

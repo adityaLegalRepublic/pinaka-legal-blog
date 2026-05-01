@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "conversion-effect-on-inheritance-hindu-law",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Religious Conversion and Your Inheritance Rights Under Hindu Law",
+  "excerpt": "Changed your religion or has a sibling converted? Learn exactly how Section 26 of the Hindu Succession Act 1956 affects your family's inheritance rights — in plain language.",
+  "date": "2026-05-01",
+  "thumb": "conversion-effect-on-inheritance-hindu-law-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/conversion-effect-on-inheritance-hindu-law/
+    index.html            <- rename conversion-effect-on-inheritance-hindu-law.html to this
+    conversion-effect-on-inheritance-hindu-law-thumb.webp
+    header.webp

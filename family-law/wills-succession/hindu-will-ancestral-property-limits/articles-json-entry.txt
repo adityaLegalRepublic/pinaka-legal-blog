@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "hindu-will-ancestral-property-limits",
+  "subject": "family-law",
+  "topic": "wills-succession",
+  "title": "Can a Hindu Will Distribute Ancestral Property? Limits Every Family Should Know",
+  "excerpt": "A Hindu father can bequeath his undivided share in coparcenary property under Sec 30 HSA — but not the whole family property. Learn the exact limits the law sets.",
+  "date": "2026-04-30",
+  "thumb": "hindu-will-ancestral-property-limits-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/wills-succession/hindu-will-ancestral-property-limits/
+    index.html            ← rename hindu-will-ancestral-property-limits.html to this
+    hindu-will-ancestral-property-limits-thumb.webp
+    header.webp

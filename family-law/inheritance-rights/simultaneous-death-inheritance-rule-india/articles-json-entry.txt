@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "simultaneous-death-inheritance-rule-india",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "When Two People Die Together — Who Inherits From Whom?",
+  "excerpt": "When a car crash or disaster kills two relatives at once, who inherits whose property? Learn the commorientes rule, Section 21 Evidence Act, and how Indian courts decide.",
+  "date": "2026-05-01",
+  "thumb": "simultaneous-death-inheritance-rule-india-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/simultaneous-death-inheritance-rule-india/
+    index.html
+    simultaneous-death-inheritance-rule-india-thumb.webp
+    header.webp

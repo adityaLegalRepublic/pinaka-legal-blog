@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "one-sided-divorce-possible-india",
+  "subject": "family-law",
+  "topic": "divorce-getting-started",
+  "title": "Is One-Sided Divorce Possible in India? What the Law Actually Says",
+  "excerpt": "Think only one spouse can end a marriage in India? Learn the real difference between contested divorce under Section 13 HMA, mutual consent under Section 13B, and ex parte decrees — in plain language.",
+  "date": "2026-04-30",
+  "thumb": "one-sided-divorce-possible-india-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/divorce-getting-started/one-sided-divorce-possible-india/
+    index.html            ← rename one-sided-divorce-possible-india.html to this
+    one-sided-divorce-possible-india-thumb.webp
+    header.webp

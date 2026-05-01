@@ -1,0 +1,18 @@
+Paste this object into articles.json:
+
+{
+  "slug": "daughter-share-father-died-before-2005",
+  "subject": "family-law",
+  "topic": "inheritance-rights",
+  "title": "Father Died Before 2005 — Does the Daughter Still Get a Share?",
+  "excerpt": "If your father died before the 2005 Hindu Succession Amendment, you may still have inheritance rights. Learn what Section 6 says and how courts have ruled.",
+  "date": "2026-05-01",
+  "thumb": "daughter-share-father-died-before-2005-thumb.webp"
+}
+
+---
+GitHub folder structure for this article:
+  family-law/inheritance-rights/daughter-share-father-died-before-2005/
+    index.html
+    daughter-share-father-died-before-2005-thumb.webp
+    header.webp
