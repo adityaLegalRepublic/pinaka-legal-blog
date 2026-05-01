@@ -3,3 +3,4 @@ node_modules/
 outputs/
 build_blog_scaffold.mjs
 pinaka-legal-blog-cloudflare-upload.zip
+.claude/settings.local.json
